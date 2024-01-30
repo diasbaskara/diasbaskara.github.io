@@ -1,7 +1,15 @@
 site_name: My Docs
+site_url: https://diasbaskara.id/
 theme:
   name: material
-site_url: https://diasbaskara.id/
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - navigation.footer
+    - header.autohide
 nav:
   - Home: index.md
   - About: about.md
