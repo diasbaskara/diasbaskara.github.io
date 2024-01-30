@@ -11,10 +11,16 @@ Wajib Pajak adalah orang pribadi atau badan, meliputi pembayar pajak, pemotong p
 
 ### Wajib Pajak
 
-Wajib Pajak orang pribadi;
-Wajib Pajak Warisan Belum Terbagi;
-Wajib Pajak Badan; dan
-Instansi Pemerintah yang ditunjuk sebagai pemotong dan/atau pemungut pajak sesuai ketentuan peraturan perundang-undangan perpajakan.
+<details><summary>Click to show</summary>
+
+The collapsed section's content goes here
+
+</details>
+
+- Wajib Pajak orang pribadi;
+- Wajib Pajak Warisan Belum Terbagi;
+- Wajib Pajak Badan; dan
+- Instansi Pemerintah yang ditunjuk sebagai pemotong dan/atau pemungut pajak sesuai ketentuan peraturan perundang-undangan perpajakan.
 Nomor Pokok Wajib Pajak (NPWP) adalah nomor yang diberikan kepada Wajib Pajak sebagai sarana dalam administrasi perpajakan yang dipergunakan sebagai tanda pengenal diri atau identitas Wajib Pajak dalam melaksanakan hak dan kewajibannya.
 
 kepada setiap Wajib Pajak hanya diberikan satu Nomor Pokok Wajib Pajak. Selain itu, Nomor Pokok Wajib Pajak juga dipergunakan untuk menjaga ketertiban dalam pembayaran pajak dan dalam pengawasan administrasi perpajakan

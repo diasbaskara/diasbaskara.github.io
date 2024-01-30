@@ -1,8 +1,9 @@
-site_name: My Docs
+site_name: Belajar Pajak
 site_url: https://diasbaskara.id/
 
 theme:
   name: material
+  language: id
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -11,24 +12,27 @@ theme:
     - navigation.top
     - navigation.footer
     - header.autohide
+    - toc.follow
 
   font:
     text: Work Sans
 
   palette:
-
-    # Palette toggle for light mode
-    - scheme: default
-      toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+    scheme: slate
+    primary: black
+    accent: grey
 
 nav:
-  - Home: index.md
-  - About: about.md
+  - Beranda: index.md
+  - Istilah:
+    - istilah/index.md 
+    - NPWP: istilah/npwp.md
+  - Pekerjaan:
+    - pekerjaan/index.md
+    - Arsitek: pekerjaan/arsitek.md
+    - Artis: pekerjaan/artis.md
+    - Desainer: pekerjaan/desainer.md
+    - Dokter: pekerjaan/dokter.md
+    - Karyawan BUMN: pekerjaan/karyawan-bumn.md
+    - Kepala Daerah: pekerjaan/kepala-daerah.md
+    - Konsultan: pekerjaan/konsultan.md
