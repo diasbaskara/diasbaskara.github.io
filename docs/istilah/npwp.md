@@ -11,21 +11,18 @@ Wajib Pajak adalah orang pribadi atau badan, meliputi pembayar pajak, pemotong p
 
 ### Wajib Pajak
 
-<details><summary>Click to show</summary>
-
-The collapsed section's content goes here
-
-</details>
+![Image title](https://dummyimage.com/200x200/eee/aaa){ align=left }
 
 - Wajib Pajak orang pribadi;
 - Wajib Pajak Warisan Belum Terbagi;
 - Wajib Pajak Badan; dan
 - Instansi Pemerintah yang ditunjuk sebagai pemotong dan/atau pemungut pajak sesuai ketentuan peraturan perundang-undangan perpajakan.
+
 Nomor Pokok Wajib Pajak (NPWP) adalah nomor yang diberikan kepada Wajib Pajak sebagai sarana dalam administrasi perpajakan yang dipergunakan sebagai tanda pengenal diri atau identitas Wajib Pajak dalam melaksanakan hak dan kewajibannya.
 
 kepada setiap Wajib Pajak hanya diberikan satu Nomor Pokok Wajib Pajak. Selain itu, Nomor Pokok Wajib Pajak juga dipergunakan untuk menjaga ketertiban dalam pembayaran pajak dan dalam pengawasan administrasi perpajakan
 
-NPWP diberikan kepada Wajib Pajak yang telah memenuhi persyaralan subjektif dan objektif sebagaimana telah diatur dalam peraturan perundang-undangan perpajakan.
+NPWP diberikan kepada Wajib Pajak yang telah memenuhi persyaratan subjektif dan objektif sebagaimana telah diatur dalam peraturan perundang-undangan perpajakan.[^1]
 
 Persyaratan subjektif adalah persyaratan yang sesuai dengan ketentuan mengenai subjek pajak dalam Undang-Undang Pajak Penghasilan 1984 dan perubahannya.
 
@@ -37,32 +34,6 @@ Nomor Pokok Wajib Pajak bagi Wajib Pajak orang pribadi yang merupakan penduduk I
 
 ## Pengelompokan Wajib Pajak
 
-Kelompok
+{{ read_csv('wajib-pajak.csv') }}
 
-Kategori
-
-keterangan
-
-Wajib Pajak orang pribadi
-
-Orang Pribadi (Induk)
-
-Wajib Pajak belum menikah, dan suami sebagai kepala keluarga
-
-Hidup Berpisah (HB)
-
- wanita kawin yang dikenai pajak secara terpisah karena hidup berpisah berdasarkan putusan hakim
-
-Pisah Harta (PH)
-
- suami-istri yang dikenai pajak secara terpisah karena menghendaki secara tertulis berdasarkan perjanjian pemisahan harta dan penghasilan secara tertulis
-
- Memilih Terpisah (MT)
-
- wanita kawin, selain kategori Hidup Berpisah dan Pisah Harta, yang dikenai pajak secara terpisah karena memilih melaksanakan hak dan memenuhi kewajiban perpajakan terpisah dari suaminya
-
- Warisan Belum Terbagi (WBT)
-
- sebagai satu kesatuan merupakan subjek pajak pengganti, menggantikan mereka yang berhak, yaitu ahli waris
-
-Lebih lanjut di: <https://pajak.go.id/id/wajib-pajak-dan-npwp>
+[^1]: Lorem ipsum dolor sit amet, consectetur adipiscing elit.

@@ -11,8 +11,12 @@ theme:
     - navigation.path
     - navigation.top
     - navigation.footer
+    - navigation.indexes
     - header.autohide
     - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.tooltips
 
   font:
     text: Work Sans
@@ -22,17 +26,56 @@ theme:
     primary: black
     accent: grey
 
-nav:
-  - Beranda: index.md
-  - Istilah:
-    - istilah/index.md 
-    - NPWP: istilah/npwp.md
-  - Pekerjaan:
-    - pekerjaan/index.md
-    - Arsitek: pekerjaan/arsitek.md
-    - Artis: pekerjaan/artis.md
-    - Desainer: pekerjaan/desainer.md
-    - Dokter: pekerjaan/dokter.md
-    - Karyawan BUMN: pekerjaan/karyawan-bumn.md
-    - Kepala Daerah: pekerjaan/kepala-daerah.md
-    - Konsultan: pekerjaan/konsultan.md
+plugins:
+  - search
+  - table-reader
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - custom-skip-class-name
+      auto_caption: false
+      caption_position: bottom
+      background: white
+      shadow: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/instagram 
+      link: https://instagram.com/diasbaskara
+      name: diasbaskara on Instagram
+    - icon: fontawesome/brands/github 
+      link: https://github.com/diasbaskara
+      name: diasbaskara on GitHub
+
+copyright: Copyright &copy; 2024 Dias Baskara
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.snippets
+
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
