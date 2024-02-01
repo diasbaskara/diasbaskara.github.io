@@ -94,9 +94,10 @@ menyampaikan Surat Pemberitahun SPT PPh.
 Arsitek sebagai wajib pajak orang pribadi yang melakukan pekerjaan bebas diwajib­kan untuk melakukan pembukuan, apabila Arsitek memiliki penghasilan di bawah Rp 4.8 milyar maka diperbolehkan untuk memilih menggunakan pencatatan.
 menyampaikan Surat Pemberitahuan Masa PPh Pasal 21.
 memungut, menyetor, dan menyampaikan SPT Masa PPN apabila telah dikukuhkan sebagai PKP.
-Catatan
 
-Penghasilan yang diterima atau diperoleh orang pribadi dari jasa sehubungan dengan pekerjaan bebas tidak termasuk penghasilan dari usaha yang dikenai Pajak Penghasilan yang bersifat final. Jasa sehubungan dengan pekerjaan bebas meliputi tenaga ahli yang melakukan pekerjaan bebas yang terdiri atas pengacara, akuntan, arsitek, dokter, konsultan, notaris, PPAT, penilai dan aktuaris.
+!!! note annotate "Catatan"
+
+    Penghasilan yang diterima atau diperoleh orang pribadi dari jasa sehubungan dengan pekerjaan bebas tidak termasuk penghasilan dari usaha yang dikenai Pajak Penghasilan yang bersifat final. Jasa sehubungan dengan pekerjaan bebas meliputi tenaga ahli yang melakukan pekerjaan bebas yang terdiri atas pengacara, akuntan, arsitek, dokter, konsultan, notaris, PPAT, penilai dan aktuaris.
 
 [^1]: Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum Dan Tata Cara Perpajakan  sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang (selanjutnya disebut UU KUP).
 [^2]: Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan  sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang (selanjutnya disebut UU PPh).

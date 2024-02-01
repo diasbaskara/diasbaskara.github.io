@@ -1,9 +1,6 @@
 # Wajib Pajak dan NPWP
 
-## Dasar Aturan
 
-Undang-Undang Republik Indonesia Nomor 6 Tahun 1983 Tentang Ketentuan Umum dan Tata Cara Perpajakan Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Undang- Undang Republik Indonesia Nomor 7 Tahun 2021
-Peraturan Direktur Jenderal Pajak Nomor PER-04/PJ/2020 tentang Petunjuk Teknis Pelaksanaan Administrasi Nomor Pokok Wajib Pajak, Sertifikat Elektronik, dan Pengukuhan Pengusaha Kena Pajak
 
 ## Ketentuan
 
@@ -11,7 +8,14 @@ Wajib Pajak adalah orang pribadi atau badan, meliputi pembayar pajak, pemotong p
 
 ### Wajib Pajak
 
-![Image title](https://dummyimage.com/200x200/eee/aaa){ align=left }
+```markdown
+{{ external_markdown('https://raw.githubusercontent.com/mkdocs/mkdocs/master/README.md', '## Features') }}
+```
+
+<figure markdown>
+  ![Image title](https://dummyimage.com/1000x800/){ width="300" }
+  <figcaption>Image caption</figcaption>
+</figure>
 
 - Wajib Pajak orang pribadi;
 - Wajib Pajak Warisan Belum Terbagi;
@@ -22,7 +26,7 @@ Nomor Pokok Wajib Pajak (NPWP) adalah nomor yang diberikan kepada Wajib Pajak se
 
 kepada setiap Wajib Pajak hanya diberikan satu Nomor Pokok Wajib Pajak. Selain itu, Nomor Pokok Wajib Pajak juga dipergunakan untuk menjaga ketertiban dalam pembayaran pajak dan dalam pengawasan administrasi perpajakan
 
-NPWP diberikan kepada Wajib Pajak yang telah memenuhi persyaratan subjektif dan objektif sebagaimana telah diatur dalam peraturan perundang-undangan perpajakan.[^1]
+NPWP diberikan kepada Wajib Pajak yang telah memenuhi persyaratan subjektif dan objektif sebagaimana telah diatur dalam peraturan perundang-undangan perpajakan.
 
 Persyaratan subjektif adalah persyaratan yang sesuai dengan ketentuan mengenai subjek pajak dalam Undang-Undang Pajak Penghasilan 1984 dan perubahannya.
 
@@ -34,6 +38,8 @@ Nomor Pokok Wajib Pajak bagi Wajib Pajak orang pribadi yang merupakan penduduk I
 
 ## Pengelompokan Wajib Pajak
 
-{{ read_csv('wajib-pajak.csv') }}
+{{ read_csv('tables/wajib-pajak.csv') }}
 
-[^1]: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+[^1]: Undang-Undang Republik Indonesia Nomor 6 Tahun 1983 Tentang Ketentuan Umum dan Tata Cara Perpajakan Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Undang- Undang Republik Indonesia Nomor 7 Tahun 2021 :material-open-in-new:
+
+[^2]: Peraturan Direktur Jenderal Pajak Nomor PER-04/PJ/2020 tentang Petunjuk Teknis Pelaksanaan Administrasi Nomor Pokok Wajib Pajak, Sertifikat Elektronik, dan Pengukuhan Pengusaha Kena Pajak :material-link:

@@ -24,5 +24,5 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material mkdocs-table-reader-plugin mkdocs-glightbox pyarrow
+      - run: pip install mkdocs-material mkdocs-table-reader-plugin mkdocs-glightbox mkdocs-embed-external-markdown pyarrow
       - run: mkdocs gh-deploy --force
