@@ -6,7 +6,7 @@
 
     ---
 
-    Penghasilan Neto = Penghasilan Bruto -  Biaya Usaha :material-information-outline:{ title="Important information" }
+    $Penghasilan$ $Neto$ $=$ $Penghasilan$ $Bruto$ $-$  $Biaya$ $Usaha$
 
 -   :octicons-note-16:{ .lg .middle }  Pencatatan
 
