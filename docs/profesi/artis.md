@@ -2,7 +2,19 @@
 
 ## Definisi
 
-Sejauh ini belum ada peraturan perpajakan yang mendefinisikan pengertian artis. Pengertian artis menurut Kamus Besar Bahasa Indonesia (KBBI) adalah ahli seni; seniman, seniwati (seperti penyanyi, pemain film, pelukis, pemain drama). Seniman sendiri memiliki makna sebagai orang yang mempunyai bakat seni dan berhasil menciptakan dan menggelarkan karya seni (pelukis, penyair, penyanyi, dan sebagainya). Apabila mengacu kepada definisi KBBI di atas maka artis adalah orang pribadi dan oleh karena itu dalam kacamata perpajakan seseorang yang berprofesi artis adalah Wajib Pajak Orang Pribadi.
+<div class="grid cards" markdown>
+
+-   :material-human-greeting-variant:{ .lg .middle } Artis
+
+    ---
+
+    _n_ ahli seni; seniman, seniwati (seperti penyanyi, pemain film, pelukis, pemain drama)
+
+    [:octicons-arrow-right-24: KBBI](https://kbbi.kemdikbud.go.id/entri/artis)
+
+</div>
+
+Sejauh ini belum ada peraturan perpajakan yang mendefinisikan pengertian artis.  Seniman sendiri memiliki makna sebagai orang yang mempunyai bakat seni dan berhasil menciptakan dan menggelarkan karya seni (pelukis, penyair, penyanyi, dan sebagainya). Apabila mengacu kepada definisi KBBI di atas maka artis adalah orang pribadi dan oleh karena itu dalam kacamata perpajakan seseorang yang berprofesi artis adalah [Wajib Pajak Orang Pribadi](http://127.0.0.1:8000/referensi/wajib-pajak/#wajib-pajak-orang-pribadi).
 
 Tetapi terdapat peraturan yang menjelaskan terkait kegiatan usaha Artis yaitu Pasal 56 PP 55 Tahun 2022 yang menyatakan bahwa yang termasuk ke dalam penghasilan sehubungan dengan pekerjaan bebas adalah pemain musik, pembawa acara, penyanyi, pelawak, bintang film, bintang sinetron, bintang iklan, sutradara, kru film, foto model, peragawan/ peragawati, pemain drama, dan penari.
 
@@ -47,3 +59,4 @@ Berikut ini akan diuraikan penggolongan objek pajak yang biasanya dimiliki oleh 
 - Peraturan Direktur Jenderal Pajak Nomor Per-17/PJ/2015 tentang Norma Penghitungan Penghasilan Neto.
 - Peraturan Dirjen Pajak Nomor Per-16/PJ/2016 Tentang Pedoman Teknis Tata Cara Pemoton­gan, Penyetoran Dan Pelaporan Pajak Penghas­ilan Pasal 21 Dan/Atau Pajak Penghasilan Pasal 26 Sehubungan Dengan Pekerjaan, Jasa, Dan Kegiatan Orang Pribadi.
 - Peraturan Dirjen Pajak Nomor Per-1/PJ/2023 tentang Pedoman Teknis Tata Cara Pemotongan, Penyetoran, dan Pelaporan Pajak Penghasilan Pasal 23 atas Penghasilan Royalti yang Diterima atau Diperoleh Wajib Pajak Orang Pribadi yang Menerapkan Penghitungan Pajak Penghasilan Menggunakan Norma Penghitungan Penghasilan Neto.
+{{ referensi() }}

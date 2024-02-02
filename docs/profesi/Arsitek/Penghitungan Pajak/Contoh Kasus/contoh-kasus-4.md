@@ -73,3 +73,4 @@ Rp20.475.000,00
 Apabila Tuan Zubair hanya memperoleh penghasilan sebagai pegawai tetap di PT A tersebut maka Tuan Zubair bisa melaporkan SPT Tahunan PPh dengan formulir 1770 S dengan status SPT Nihil.
 
 Lebih lanjut di: https://pajak.go.id/id/arsitek
+{{ referensi() }}

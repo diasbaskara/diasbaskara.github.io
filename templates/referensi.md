@@ -1,4 +1,3 @@
-# Referensi
 
 *[DPP]: Dasar Pengenaan Pajak
 *[PTKP]: Penghasilan Tidak Kena Pajak

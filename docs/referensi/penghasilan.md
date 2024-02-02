@@ -6,3 +6,4 @@ Penghasilan adalah setiap tambahan kemampuan ekonomis yang diterima atau diperol
 ## Jenis Penghasilan
 ### Penghasilan dari pekerjaan bebas
 Penghasilan dari pekerjaan bebas adalah penghasilan dari pekerjaan yang dilakukan oleh orang pribadi yang mempunyai keahlian khusus sebagai usaha untuk memperoleh penghasilan yang tidak terikat oleh suatu hubungan kerja.
+{{ referensi() }}

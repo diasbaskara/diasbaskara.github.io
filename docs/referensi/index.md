@@ -1,3 +1,5 @@
 # Referensi
 
-Berikut ini adalah beberapa istilah pajak yang biasa dipakai.
+Berikut ini adalah istilah-istilah di bidang perpajakan yang biasa digunakan.
+
+{{ referensi() }}

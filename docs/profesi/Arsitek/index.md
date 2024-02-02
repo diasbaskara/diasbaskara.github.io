@@ -110,3 +110,4 @@ memungut, menyetor, dan menyampaikan SPT Masa PPN apabila telah dikukuhkan sebag
 [^11]: Peraturan Dirjen Pajak Nomor PER-16/PJ/2016 Tentang Pedoman Teknis Tata Cara Pemoton­gan, Penyetoran Dan Pelaporan Pajak Penghas­ilan Pasal 21 Dan/Atau Pajak Penghasilan Pasal 26 Sehubungan Dengan Pekerjaan, Jasa, Dan Kegiatan Orang Pribadi
 [^12]: Peraturan Dirjen Pajak Nomor PER-17/PJ/2015 Tentang Norma Penghitungan Penghasilan Neto
 [^13]: Peraturan Dirjen Pajak Nomor Per-1/PJ/2023 tentang Pedoman Teknis Tata Cara Pemotongan, Penyetoran, dan Pelaporan Pajak Penghasilan Pasal 23 atas Penghasilan Royalti yang Diterima atau Diperoleh Wajib Pajak Orang Pribadi yang Menerapkan Penghitungan Pajak Penghasilan Menggunakan Norma Penghitungan Penghasilan Neto.
+{{ referensi() }}

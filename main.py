@@ -4,6 +4,15 @@ def define_env(env):
     """
 
     @env.macro
-    def price(unit_price, no):
-        "Calculate price"
-        return unit_price * no
+    def referensi():
+        f = open("templates/referensi.md", "r")
+        lines = [
+            '*[DPP]: Dasar Pengenaan Pajak',
+            '*[PTKP]: Penghasilan Tidak Kena Pajak',
+            '*[NPWP]: Nomor Pokok Wajib Pajak',
+            '*[PPh]: Pajak Penghasilan',
+            '*[PPN]: Pajak Pertambahan Nilai',
+            '*[OP]: Orang Pribadi',
+        ]
+        multiline_string = '\n'.join(lines)
+        return f.read()

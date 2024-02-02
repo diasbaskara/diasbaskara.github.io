@@ -118,3 +118,4 @@ wajib memberitahukan mengenai penggunaan NPPN kepada Direktur Jenderal Pajak pal
 besarnya NPPN bagi desainer adalah berdasarkan PER17/PJ/2015.
 
 Lebih lanjut di: https://pajak.go.id/id/desainer
+{{ referensi() }}

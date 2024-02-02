@@ -73,3 +73,4 @@ Rp485.893.100,00
 PPh Pasal 29 tersebut wajib dibayarkan oleh Himawan sebelum menyampaikan Surat Pemberitahuan Tahunan (SPT) PPh-nya.
 
 Lebih lanjut di: https://pajak.go.id/id/arsitek
+{{ referensi() }}
