@@ -2,11 +2,15 @@
 
 Selamat datang di Belajar Pajak!
 
+The unit price of our product is {{ unit_price }} EUR.
+Taking the standard discount into account,
+the sale price of {{ units }} units is {{ price(unit_price, units) }} EUR.
+
 <div class="grid cards" markdown>
 
-- :fontawesome-brands-html5: __HTML__ for content and structure
-- :fontawesome-brands-js: __JavaScript__ for interactivity
-- :fontawesome-brands-css3: __CSS__ for text running out of boxes
-- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
+- :material-checkbox-marked-circle-outline: [Administrasi](administrasi) – Cari tahu bagaimana cara daftar, bayar/setor, lapor, dan administrasi lainnya.
+- :material-checkbox-marked-circle-outline: [Peraturan](peraturan) –
+- :material-checkbox-marked-circle-outline: [Profesi](profesi) –
+- :material-checkbox-marked-circle-outline: [Referensi](referensi) –
 
 </div>

@@ -2,13 +2,13 @@
 
 <div class="grid cards" markdown>
 
--   :material-lead-pencil:{ .lg .middle } Pembukuan
+-   :octicons-note-16:{ .lg .middle }  Pembukuan
 
     ---
 
     Penghasilan Neto = Penghasilan Bruto -  Biaya Usaha :material-information-outline:{ title="Important information" }
 
--   :material-lead-pencil:{ .lg .middle } Pencatatan
+-   :octicons-note-16:{ .lg .middle }  Pencatatan
 
     ---
 
@@ -16,13 +16,7 @@
     
 </div>
 
-*[DPP]: Dasar Pengenaan Pajak
-*[PTKP]: Penghasilan Tidak Kena Pajak
-*[NPWP]: Nomor Pokok Wajib Pajak
-*[PPh]: Pajak Penghasilan
-*[PPN]: Pajak Pertambahan Nilai
-
-Penghasilan Kena Pajak = Penghasilan Neto - [PTKP](/site/referensi/ptkp)
+Penghasilan Kena Pajak = Penghasilan Neto - [PTKP](/referensi/ptkp)
 
 PPh terutang = Tarif PPh Pasal 17 (1) huruf a x Penghasilan Kena Pajak 
 
@@ -58,3 +52,10 @@ Apabila pemberi imbalan jasa  menggunakan Arsitek Asing maka diwajibkan untuk m
 Apabila Arsitek memberikan jasa ke luar negeri, maka bukti potong atas penghasilan jasa luar negeri dapat dikreditkan selama sesuai dengan peraturan perpajakan.
 
 [^1]: Biaya usaha adalah biaya-biaya yang digunakan sehubungan dengan mendapatkan, menagih, dan me­melihara penghasilan.
+
+*[DPP]: Dasar Pengenaan Pajak
+*[PTKP]: Penghasilan Tidak Kena Pajak
+*[NPWP]: Nomor Pokok Wajib Pajak
+*[PPh]: Pajak Penghasilan
+*[PPN]: Pajak Pertambahan Nilai
+*[SPT]: Surat Pemberitahuan

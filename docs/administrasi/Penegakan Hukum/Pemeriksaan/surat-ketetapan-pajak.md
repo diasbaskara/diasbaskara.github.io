@@ -8,10 +8,6 @@ Wajib Pajak adalah orang pribadi atau badan, meliputi pembayar pajak, pemotong p
 
 ### Wajib Pajak
 
-```markdown
-{{ external_markdown('https://raw.githubusercontent.com/mkdocs/mkdocs/master/README.md', '## Features') }}
-```
-
 <figure markdown>
   ![Image title](https://dummyimage.com/1000x800/){ width="300" }
   <figcaption>Image caption</figcaption>

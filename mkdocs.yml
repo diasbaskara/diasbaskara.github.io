@@ -29,7 +29,7 @@ theme:
 plugins:
   - search
   - table-reader
-  - external-markdown
+  - macros
   - glightbox:
       touchNavigation: true
       loop: false
@@ -54,6 +54,8 @@ extra:
     - icon: fontawesome/brands/github 
       link: https://github.com/diasbaskara
       name: diasbaskara on GitHub
+  unit_price: 100
+  units: 50
 
 copyright: Copyright &copy; 2024 Dias Baskara
 

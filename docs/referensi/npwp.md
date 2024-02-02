@@ -8,9 +8,7 @@ Wajib Pajak adalah orang pribadi atau badan, meliputi pembayar pajak, pemotong p
 
 ### Wajib Pajak
 
-```markdown
-{{ external_markdown('https://raw.githubusercontent.com/mkdocs/mkdocs/master/README.md', '## Features') }}
-```
+{{ macros_info() }}
 
 <figure markdown>
   ![Image title](https://dummyimage.com/1000x800/){ width="300" }
@@ -40,6 +38,6 @@ Nomor Pokok Wajib Pajak bagi Wajib Pajak orang pribadi yang merupakan penduduk I
 
 {{ read_csv('tables/wajib-pajak.csv') }}
 
-[^1]: Undang-Undang Republik Indonesia Nomor 6 Tahun 1983 Tentang Ketentuan Umum dan Tata Cara Perpajakan Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Undang- Undang Republik Indonesia Nomor 7 Tahun 2021 :material-open-in-new:
+[^1]: Undang-Undang Republik Indonesia Nomor 6 Tahun 1983 Tentang Ketentuan Umum dan Tata Cara Perpajakan Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Undang- Undang Republik Indonesia Nomor 7 Tahun 2021 [:material-open-in-new:](#)
 
 [^2]: Peraturan Direktur Jenderal Pajak Nomor PER-04/PJ/2020 tentang Petunjuk Teknis Pelaksanaan Administrasi Nomor Pokok Wajib Pajak, Sertifikat Elektronik, dan Pengukuhan Pengusaha Kena Pajak :material-link:

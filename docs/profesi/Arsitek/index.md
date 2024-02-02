@@ -2,9 +2,7 @@
 
 ## Definisi
 
-Sebelum memahami aspek perpajakan terkait Arsitek, terdapat beberapa pengertian yang perlu kita pahami sesuai ketentuan UU No.6 Tahun 2017 tentang Arsitek sebagaimana telah diubah dengan UU No.11 Tahun 2020 tentang Cipta Kerja.
-
-Arsitek adalah seseorang yang telah memenuhi syarat dan ditetapkan oleh Dewan untuk melakukan praktik Arsitek, yaitu penyelenggaraan kegiatan untuk menghasilkan karya Arsitektur yang meliputi perencanaan, perancangan, pengawasan, dan/atau pengkajian untuk bangunan gedung dan lingkungannya, serta yang terkait dengan kawasan dan kota. Pada dasarnya, Layanan Praktik Arsitek dapat berupa penyediaan jasa profesional terkait dengan penye­lenggaraan kegiatan Arsitek, termasuk yang dilakukan secara bersama dengan profesi lainnya.
+Arsitek adalah seseorang yang telah memenuhi syarat dan ditetapkan oleh Dewan untuk melakukan praktik Arsitek, yaitu penyelenggaraan kegiatan untuk menghasilkan karya Arsitektur yang meliputi perencanaan, perancangan, pengawasan, dan/atau pengkajian untuk bangunan gedung dan lingkungannya, serta yang terkait dengan kawasan dan kota. Pada dasarnya, Layanan Praktik Arsitek dapat berupa penyediaan jasa profesional terkait dengan penye­lenggaraan kegiatan Arsitek, termasuk yang dilakukan secara bersama dengan profesi lainnya.[^4]
 
 ### Lingkup layanan praktik arsitek
 
@@ -26,8 +24,8 @@ Sedangkan pengertian dari Arsitektur adalah wujud hasil penerapan ilmu pengetahu
 
 ## Objek Penghasilan
 
-1. Penghasilan adalah setiap tambahan kemampuan ekonomis yang diterima atau diperoleh Wajib Pajak, baik yang berasal dari Indonesia maupun dari luar Indonesia, yang dapat dipakai untuk konsumsi atau untuk menambah kekayaan Wajib Pajak yang bersangkutan, dengan nama dan dalam bentuk apa pun.
-2. Penghasilan dari pekerjaan bebas adalah penghasilan dari pekerjaan yang dilakukan oleh orang pribadi yang mempunyai keahlian khusus sebagai usaha untuk memperoleh penghasilan yang tidak terikat oleh suatu hubungan kerja.
+1. 
+2. 
 3. Penghasilan sehubungan dengan pekerjaan bebas sebagai arsitek berupa imbalan hasil kerja atas layanan praktik arsitek baik dalam hal penyediaan jasa professional terkait dengan penyelenggaraan kegiatan arsitek maupun Layanan Praktik Arsitek yang dilakukan secara bersama dengan profesi lainnya.
 4. Penghasilan selain dari pekerjaan bebas yaitu:
      a. Penghasilan dari pekerjaan dalam hubungan kerja, misalnya seorang Arsitek bekerja sebagai karyawan perusahaan kontraktor.
