@@ -18,11 +18,14 @@ jobs:
         with:
           python-version: 3.x
       - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
       - uses: actions/cache@v3
         with:
           key: mkdocs-material-${{ env.cache_id }}
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material mkdocs-table-reader-plugin mkdocs-glightbox mkdocs-embed-external-markdown pyarrow mkdocs-macros-plugin
+      - run: pip install mkdocs-material mkdocs-table-reader-plugin mkdocs-glightbox mkdocs-embed-external-markdown pyarrow mkdocs-macros-plugin mkdocs-awesome-pages-plugin mkdocs-blogging-plugin
       - run: mkdocs gh-deploy --force

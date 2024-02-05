@@ -8,3 +8,5 @@
 *[PBB]: Pajak Bumi dan Bangunan
 *[WNI]: Warga Negara Indonesia
 *[WNA]: Warga Negara Asing
+*[PT]: Perseroan Terbatas
+*[CV]: Commanditaire Vennootschap (Persekutuan Komanditer)

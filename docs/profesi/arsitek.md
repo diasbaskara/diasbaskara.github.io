@@ -40,20 +40,18 @@ Sedangkan pengertian dari Arsitektur adalah wujud hasil penerapan ilmu pengetahu
 
 ## Objek Penghasilan
 
-1. 
-2. 
-3. Penghasilan sehubungan dengan pekerjaan bebas sebagai arsitek berupa imbalan hasil kerja atas layanan praktik arsitek baik dalam hal penyediaan jasa professional terkait dengan penyelenggaraan kegiatan arsitek maupun Layanan Praktik Arsitek yang dilakukan secara bersama dengan profesi lainnya.
-4. Penghasilan selain dari pekerjaan bebas yaitu:
-     a. Penghasilan dari pekerjaan dalam hubungan kerja, misalnya seorang Arsitek bekerja sebagai karyawan perusahaan kontraktor.
-     b. Penghasilan dari usaha dan kegiatan misalnya penghasilan dari usaha perdagangan, restoran, salon kecantikan, usaha pom bensin, dan lain-lain.
-     c. Penghasilan dalam negeri lainnya yang bersifat tidak final berupa komisi, hadiah atau imbalan lain, misalnya Arsitek mendapatkan komisi terkait dengan jasa perantara;
-     d. Penghasilan dari modal yang berupa harta bergerak ataupun harta tak bergerak seperti:
-         - bunga, misalnya Arsitek memperoleh penghasilan bunga; 
-         - royalti, misalnya Arsitek mendapatkan royalti atas hak paten atau _intelectual property_ yang dimiliki/ditemukan;
-         - sewa harta selain tanah/bangunan, misalnya penghasilan dari sewa truk/ mobil;
-         - keuntungan dari penjualan/pengalihan harta, misalnya keuntungan dari penjualan mobil, motor, kapal dsb;
-     f. Penghasilan dalam negeri yang dikenakan PPh yang bersifat final, misalnya penghasilan dari sewa tanah dan/atau bangunan, penghasilan berupa bunga bank/ obligasi, penghasilan dari pengalihan saham di bursa efek Indonesia.
-     g. Penghasilan luar negeri.
+1. Penghasilan sehubungan dengan pekerjaan bebas sebagai arsitek berupa imbalan hasil kerja atas layanan praktik arsitek baik dalam hal penyediaan jasa professional terkait dengan penyelenggaraan kegiatan arsitek maupun Layanan Praktik Arsitek yang dilakukan secara bersama dengan profesi lainnya.
+2. Penghasilan selain dari pekerjaan bebas yaitu:
+    1. Penghasilan dari pekerjaan dalam hubungan kerja, misalnya seorang Arsitek bekerja sebagai karyawan perusahaan kontraktor.
+    2. Penghasilan dari usaha dan kegiatan misalnya penghasilan dari usaha perdagangan, restoran, salon kecantikan, usaha pom bensin, dan lain-lain.
+    3. Penghasilan dalam negeri lainnya yang bersifat tidak final berupa komisi, hadiah atau imbalan lain, misalnya Arsitek mendapatkan komisi terkait dengan jasa perantara;
+    4. Penghasilan dari modal yang berupa harta bergerak ataupun harta tak bergerak seperti:
+        - bunga, misalnya Arsitek memperoleh penghasilan bunga; 
+        - royalti, misalnya Arsitek mendapatkan royalti atas hak paten atau *intelectual property* yang dimiliki/ditemukan;
+        - sewa harta selain tanah/bangunan, misalnya penghasilan dari sewa truk/ mobil;
+        - keuntungan dari penjualan/pengalihan harta, misalnya keuntungan dari penjualan mobil, motor, kapal dsb;
+    5. Penghasilan dalam negeri yang dikenakan PPh yang bersifat final, misalnya penghasilan dari sewa tanah dan/atau bangunan, penghasilan berupa bunga bank/ obligasi, penghasilan dari pengalihan saham di bursa efek Indonesia.
+    6. Penghasilan luar negeri.
 
 
 
@@ -78,22 +76,18 @@ memungut, menyetor, dan menyampaikan SPT Masa PPN apabila telah dikukuhkan sebag
 
 ## Penghitungan Pajak
 
-<div class="grid cards" markdown>
-
--   Pembukuan
+=== "Pembukuan"
 
     ---
 
     $Penghasilan$ $Neto$ $=$ $Penghasilan$ $Bruto$ $-$  $Biaya$ $Usaha$
 
--   Pencatatan
+=== "Pencatatan"
 
     ---
 
     $Penghasilan$ $Neto$ $=$ $%$ $Norma$ $×$ $Penghasilan$ $Bruto$
     
-</div>
-
 <div class="grid cards" markdown>
 
 -   Penghasilan Kena Pajak
@@ -157,6 +151,6 @@ Apabila Arsitek memberikan jasa ke luar negeri, maka bukti potong atas penghasil
 [^10]: Peraturan Menteri Keuangan Nomor 252/PMK.03/2008 tentang Petunjuk Pelaksanaan Pemotongan Pajak atas Penghasilan Sehu­bungan Dengan Pekerjaan, Jasa, Dan Kegiatan Orang Pribadi
 [^11]: Peraturan Dirjen Pajak Nomor PER-16/PJ/2016 Tentang Pedoman Teknis Tata Cara Pemoton­gan, Penyetoran Dan Pelaporan Pajak Penghas­ilan Pasal 21 Dan/Atau Pajak Penghasilan Pasal 26 Sehubungan Dengan Pekerjaan, Jasa, Dan Kegiatan Orang Pribadi
 [^12]: Peraturan Dirjen Pajak Nomor PER-17/PJ/2015 Tentang Norma Penghitungan Penghasilan Neto
-[^13]: Peraturan Dirjen Pajak Nomor Per-1/PJ/2023 tentang Pedoman Teknis Tata Cara Pemotongan, Penyetoran, dan Pelaporan Pajak Penghasilan Pasal 23 atas Penghasilan Royalti yang Diterima atau Diperoleh Wajib Pajak Orang Pribadi yang Menerapkan Penghitungan Pajak Penghasilan Menggunakan Norma Penghitungan Penghasilan Neto.
+[^13]: Peraturan Direktur Jenderal Pajak Nomor PER-1/PJ/2023 Tentang Pedoman Teknis Tata Cara Pemotongan, Penyetoran, dan Pelaporan Pajak Penghasilan Pasal 23 atas Penghasilan Royalti yang Diterima atau Diperoleh Wajib Pajak Orang Pribadi yang Menerapkan Penghitungan Pajak Penghasilan Menggunakan Norma Penghitungan Penghasilan Neto [:material-open-in-new:](https://pajak.go.id/id/peraturan/pedoman-teknis-tata-cara-pemotongan-penyetoran-dan-pelaporan-pajak-penghasilan-pasal-23){target="_blank"}
 
 {{ referensi() }}
