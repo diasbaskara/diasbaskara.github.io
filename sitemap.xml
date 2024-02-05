@@ -6,7 +6,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://diasbaskara.id/FAQ/faq/</loc>
+         <loc>https://diasbaskara.id/FAQ/</loc>
+         <lastmod>2024-02-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://diasbaskara.id/FAQ/pmk-2023-60/</loc>
+         <lastmod>2024-02-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://diasbaskara.id/FAQ/pmk-2023-72/</loc>
          <lastmod>2024-02-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -17,6 +27,16 @@
     </url>
     <url>
          <loc>https://diasbaskara.id/administrasi/daftar/</loc>
+         <lastmod>2024-02-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://diasbaskara.id/blog/</loc>
+         <lastmod>2024-02-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://diasbaskara.id/blog/artikel/</loc>
          <lastmod>2024-02-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -32,6 +52,11 @@
     </url>
     <url>
          <loc>https://diasbaskara.id/peraturan/Peraturan%20Menteri%20Keuangan/</loc>
+         <lastmod>2024-02-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://diasbaskara.id/peraturan/Peraturan%20Menteri%20Keuangan/pmk-2023-60/</loc>
          <lastmod>2024-02-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
