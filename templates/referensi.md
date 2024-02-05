@@ -6,3 +6,5 @@
 *[PPN]: Pajak Pertambahan Nilai
 *[SPT]: Surat Pemberitahuan
 *[PBB]: Pajak Bumi dan Bangunan
+*[WNI]: Warga Negara Indonesia
+*[WNA]: Warga Negara Asing

@@ -81,4 +81,51 @@
 
     Setelah anda menentukan jenis Badan tersebut, berikut dokumen yang harus dilampirkan.
 
+    !!! info "Dokumen yang dilampirkan"
+
+        === "Badan Profit/Nonprofit"
+
+            1. Fotokopi dokumen pendirian badan usaha, berupa:
+
+                  - [x] akta pendirian atau dokumen pendirian dan perubahannya, bagi Wajib Pajak Badan dalam negeri; atau
+                  - [x] surat keterangan penunjukan dari kantor pusat, bagi bentuk usaha tetap atau kantor perwakilan perusahaan asing;
+  
+            2. Dokumen yang menunjukkan identitas diri seluruh pengurus Badan:
+            
+            <div class="grid cards" markdown>
+
+            -   :flag_id:{ .lg .middle } Warga Negara Indonesia
+
+                ---
+
+                - [x] Fotokopi Kartu Nomor Pokok Wajib Pajak
+  
+            -   :globe_with_meridians:{ .lg .middle } Warga Negara Asing
+
+                ---
+
+                - [x] Fotokopi paspor; dan
+                - [x] Fotokopi Kartu Nomor Pokok Wajib Pajak, dalam hal WNA telah terdaftar sebagai Wajib Pajak.
+
+            </div>            
+
+        === "Kerja Sama Operasi (*Joint Operation*)"
+
+            - [x] fotokopi perjanjian kerjasama atau akta pendirian sebagai bentuk kerja sama operasi;
+            - [x] fotokopi Kartu Nomor Pokok Wajib Pajak masing-masing anggota bentuk kerja sama operasi yang diwajibkan untuk memiliki Nomor Pokok Wajib Pajak;
+            - dokumen yang menunjukkan identitas diri pengurus bentuk Kerja Sama Operasi (Joint Operation) dan salah satu pengurus dari masing-masing perusahaan anggota bentuk Kerja Sama Operasi (Joint Operation), meliputi: 
+            - bagi Warga Negara Indonesia, yaitu fotokopi Kartu Nomor Pokok Wajib Pajak; atau
+            - bagi Warga Negara Asing, yaitu:
+            - fotokopi paspor; dan
+            - fotokopi Kartu Nomor Pokok Wajib Pajak, dalam hal Warga Negara Asing telah terdaftar sebagai Wajib Pajak.
+
+        === "Badan dengan status cabang"
+
+            - fotokopi Kartu Nomor Pokok Wajib Pajak pusat atau induk; dan
+            - dokumen yang menunjukkan identitas diri pimpinan cabang atau penanggung jawab cabang, yaitu:
+            - bagi Warga Negara Indonesia, yaitu fotokopi Kartu Nomor Pokok Wajib Pajak; atau
+            - bagi Warga Negara Asing, yaitu:
+            - fotokopi paspor; dan
+            - fotokopi Kartu Nomor Pokok Wajib Pajak, dalam hal Warga Negara Asing telah terdaftar sebagai Wajib Pajak.
+
 {{ referensi() }}
