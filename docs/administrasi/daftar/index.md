@@ -26,20 +26,20 @@
 
         === "Warga Negara Indonesia"
 
-            - Fotokopi Kartu Tanda Penduduk (KTP)
-        
+            - [x] Fotokopi Kartu Tanda Penduduk (KTP)
+
         === "Warga Negara Asing"
 
-            - Fotokopi Paspor; dan
-            - Fotokopi Kartu Izin Tinggal Sementara (KITAS) atau Kartu Izin Tinggal Tetap (KITAP)
+            - [x] Fotokopi Paspor; dan
+            - [x] Fotokopi Kartu Izin Tinggal Sementara (KITAS) atau Kartu Izin Tinggal Tetap (KITAP)
 
     ??? info "pelamar kerja yang belum memiliki penghasilan, mahasiswa yang belum memiliki penghasilan, dan sejenisnya"
 
-        - Fotokopi Kartu Tanda Penduduk (KTP)
+        - [x] Fotokopi Kartu Tanda Penduduk (KTP)
 
     ??? info "Usaha dan/atau Pekerjaan Bebas pada 1 (satu) atau lebih tempat kegiatan usaha yang berbeda dengan tempat tinggal"
 
-        - Fotokopi Kartu Nomor Pokok Wajib Pajak (NPWP)
+        - [x] Fotokopi Kartu Nomor Pokok Wajib Pajak (NPWP)
 
     ??? info "Warisan Belum Terbagi"
 
@@ -60,11 +60,11 @@
 
         Dokumen yang perlu dilampirkan adalah sebagai berikut.
 
-        - fotokopi akta kematian, surat keterangan kematian, atau dokumen lain yang dipersamakan dari Wajib Pajak orang pribadi yang meninggal dunia; dan
+        - [x] fotokopi akta kematian, surat keterangan kematian, atau dokumen lain yang dipersamakan dari Wajib Pajak orang pribadi yang meninggal dunia; dan
         - dokumen yang menunjukkan kedudukan sebagai wakil Wajib Pajak Warisan Belum Terbagi, sebagai berikut:
-            - fotokopi Kartu NPWP salah satu ahli waris, dalam hal warisan yang belum terbagi diwakili oleh salah satu ahli waris;
-            - fotokopi akta wasiat, surat wasiat, atau dokumen lain yang dipersamakan, dan fotokopi Kartu NPWP pelaksana wasiat, dalam hal warisan yang belum terbagi diwakili oleh pelaksana wasiat; atau
-            - fotokopi dokumen penunjukan pihak yang mengurus harta peninggalan dan fotokopi Kartu NPWP pihak yang mengurus harta peninggalan, dalam hal warisan yang belum terbagi diwakili oleh pihak yang mengurus harta peninggalan.
+            - [x] fotokopi Kartu NPWP salah satu ahli waris, dalam hal warisan yang belum terbagi diwakili oleh salah satu ahli waris;
+            - [x] fotokopi akta wasiat, surat wasiat, atau dokumen lain yang dipersamakan, dan fotokopi Kartu NPWP pelaksana wasiat, dalam hal warisan yang belum terbagi diwakili oleh pelaksana wasiat; atau
+            - [x] fotokopi dokumen penunjukan pihak yang mengurus harta peninggalan dan fotokopi Kartu NPWP pihak yang mengurus harta peninggalan, dalam hal warisan yang belum terbagi diwakili oleh pihak yang mengurus harta peninggalan.
 
 === "Wajib Pajak Badan"
 

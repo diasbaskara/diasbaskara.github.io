@@ -1,2 +1,0 @@
-# PMK 72 Tahun 2023
-{{ referensi() }}

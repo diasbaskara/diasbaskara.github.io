@@ -1,2 +1,3 @@
-# PMK 66 Tahun 2023
+# Peraturan Direktur Jenderal Pajak
+
 {{ referensi() }}
