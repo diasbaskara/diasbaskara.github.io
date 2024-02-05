@@ -1,3 +1,20 @@
+# Desainer
+
+## Definisi
+
+<div class="grid cards" markdown>
+
+-   :material-human-greeting-variant:{ .lg .middle } Desainer
+
+    ---
+
+    - *n* pendesain; perancang
+    - *n* *Sen* pendesain atau perancang kostum, gambar latar, lampu, dan aspek teknikal lainnya dalam sebuah produksi pertunjukan
+
+    [:octicons-arrow-right-24: KBBI](https://kbbi.kemdikbud.go.id/entri/desainer)
+
+</div>
+
 Desain yang merupakan kata serapan dari bahasa Inggris design berarti kerangka bentuk atau rancangan. Desain memang awal mulanya dikenal sebagai bagian dari seni dan kriya, namun ternyata pengertian dari desain itu sekarang digunakan untuk berbagai hal. Tidak hanya di seni rupa, dalam bidang teknologi dan rekayasa pun kita sering mendengar kata desain. Sedangkan orang yang merancang disebut sebagai desainer.
 
 Macam-macam desainer antara lain:
@@ -53,41 +70,6 @@ keuntungan dari penjualan/pengalihan harta, misalnya keuntungan dari penjualan m
 Penghasilan dalam negeri yang dikenakan PPh yang bersifat final, misalnya penghasilan dari sewa tanah dan/atau bangunan, penghasilan berupa bunga bank/ obligasi, penghasilan dari pengalihan saham di bursa efek Indonesia.
 Penghasilan luar negeri.
 
-Pada dasarnya seorang desainer mempunyai hak dan kewajiban perpajakan yang sama dengan Wajib Pajak yang lain sesuai dengan ketentuan peraturan perundang-undangan perpajakan. Hak-hak dimaksud antara lain:
-
-Wajib Pajak berhak mendapatkan pelayanan yang baik dalam memenuhi ketentuan perpajakan
-Wajib pajak mempunyai hak untuk mengajukan permohonan pengembalian atas kelebihan pembayaran pajak atau pengembalian atas pembayaran pajak yang seharusnya tidak terutang
-Dalam hal dilakukan pemeriksaan Wajib Pajak berhak antara lain:
-meminta kepada Pemeriksa untuk memberikan Surat Pemberitahuan Pemeriksaan atau Surat Panggilan Dalam Rangka Pemeriksaan Kantor
-meminta kepada Pemeriksa untuk menunjukkan Surat Perintah Pemeriksaan
-melihat tanda pengenal Pemeriksa
-mendapat penjelasan mengenai maksud dan tujuan pemeriksaan
-meminta rincian atau penjelasan terkait perbedaan antara temuan hasil pe­meriksaan dengan SPT
-menerima Surat Pemberitahuan Hasil Pemeriksaan
-hadir dalam pembahasan akhir hasil pemeriksaan dalam batas waktu yang diten­tukan
-mengajukan permohonan untuk dilakukan pembahasan dengan Tim Quality Assurance
-Hak untuk mengajukan pembetulan atas SPT
-Hak untuk mengungkapkan ketidakbenaran perbuatan apabila sedang dilakukan pemeriksaan bukti permulaan, sepanjang mulainya penyidikan belum disampaikan kepada Penuntut Umum melalui Penyidik Pejabat Kepolisian Negara Republik Indonesia
-Hak untuk mengungkapkan ketidakbenaran pengisian SPT walaupun sedang dilakukan pemeriksaan, sepanjang pemeriksa belum menyampaikan surat pemberitahuan hasil pemeriksaan
-Hak untuk mengajukan pembetulan, keberatan, banding dan peninjauan kembali
-Hak untuk mengajukan permohonan pengurangan atau penghapusan sanksi administrasi
-Hak untuk mengajukan permohonan pengurangan atau pembatalan surat ketetapan pajak yang tidak benar
-Hak untuk mengajukan permohonan pengurangan atau pembatalan Surat Tagihan Pajak yang tidak benar
-Hak untuk mengajukan pembatalan pemeriksaan pajak atau surat ketetapan pajak dari hasil pemeriksaan yang dilaksanakan tanpa melalui penyampaian surat pemberitahuan hasil pemeriksaan atau tanpa pembahasan akhir hasil pemeriksaan.
-Hak untuk membayar atau melunasi kerugian pada pendapatan negara dalam tahap penyidikan maupun persidangan apabila Wajib Pajak sedang dilakukan tindakan penyidikan atau persidangan atas tindak pidana perpajakan.
-Hak kerahasiaan bagi Wajib Pajak yaitu:
-SPT, laporan keuangan dan dokumen lainn­ya yang dilaporkan oleh Wajib Pajak
-Data dari pihak ketiga yang bersifat rahasia
-Dokumen atau rahasia Wajib Pajak lainnya sesuai ketentuan Wajib Pajak yang berlaku
-Hak untuk mengajukan permohonan penundaan pembayaran pajak
-Hak untuk mengajukan permohonan pengangsuran pembayaran pajak
-Hak untuk mengajukan permohonan penundaan pelaporan SPT Tahunan
-Hak untuk mengajukan permohonan pengurangan PPh Pasal 25
-Hak untuk mengajukan permohonan pengurangan PBB
-Hak untuk diberikan pembebasan pajak, sesuai ketentuan yang berlaku
-Hak untuk mengajukan permohonan pengembalian pendahuluan kelebihan pembayaran pajak
-Hak untuk mendapat pajak ditanggung pemerin­tah, sesuai ketentuan yang berlaku
-Hak untuk mendapatkan insentif pajak
 
 Kewajiban perpajakan seorang desainer pada dasarnya sama dengan Wajib Pajak yang lain yaitu:
 
@@ -117,5 +99,4 @@ wajib melakukan pencatatan sebagaimana diatur dalam Peraturan Menteri Keuangan N
 wajib memberitahukan mengenai penggunaan NPPN kepada Direktur Jenderal Pajak paling lama 3 (tiga) bulan sejak awal Tahun Pajak yang bersangkutan
 besarnya NPPN bagi desainer adalah berdasarkan PER17/PJ/2015.
 
-Lebih lanjut di: https://pajak.go.id/id/desainer
 {{ referensi() }}

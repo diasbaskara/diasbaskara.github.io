@@ -8,15 +8,15 @@
 
     ---
 
-    _n_ ahli seni; seniman, seniwati (seperti penyanyi, pemain film, pelukis, pemain drama)
+    *n* ahli seni; seniman, seniwati (seperti penyanyi, pemain film, pelukis, pemain drama)
 
     [:octicons-arrow-right-24: KBBI](https://kbbi.kemdikbud.go.id/entri/artis)
 
 </div>
 
-Sejauh ini belum ada peraturan perpajakan yang mendefinisikan pengertian artis.  Seniman sendiri memiliki makna sebagai orang yang mempunyai bakat seni dan berhasil menciptakan dan menggelarkan karya seni (pelukis, penyair, penyanyi, dan sebagainya). Apabila mengacu kepada definisi KBBI di atas maka artis adalah orang pribadi dan oleh karena itu dalam kacamata perpajakan seseorang yang berprofesi artis adalah [Wajib Pajak Orang Pribadi](http://127.0.0.1:8000/referensi/wajib-pajak/#wajib-pajak-orang-pribadi).
+Sejauh ini belum ada peraturan perpajakan yang mendefinisikan pengertian artis.  Seniman sendiri memiliki makna sebagai orang yang mempunyai bakat seni dan berhasil menciptakan dan menggelarkan karya seni (pelukis, penyair, penyanyi, dan sebagainya).
 
-Tetapi terdapat peraturan yang menjelaskan terkait kegiatan usaha Artis yaitu Pasal 56 PP 55 Tahun 2022 yang menyatakan bahwa yang termasuk ke dalam penghasilan sehubungan dengan pekerjaan bebas adalah pemain musik, pembawa acara, penyanyi, pelawak, bintang film, bintang sinetron, bintang iklan, sutradara, kru film, foto model, peragawan/ peragawati, pemain drama, dan penari.
+Terkait kegiatan usaha Artis yang termasuk ke dalam penghasilan sehubungan dengan pekerjaan bebas adalah pemain musik, pembawa acara, penyanyi, pelawak, bintang film, bintang sinetron, bintang iklan, sutradara, kru film, foto model, peragawan/peragawati, pemain drama, dan penari.[^3]
 
 ### Apakah artis juga Wajib Pajak?
 
@@ -50,13 +50,15 @@ Berikut ini akan diuraikan penggolongan objek pajak yang biasanya dimiliki oleh 
 
 ## Dasar Hukum
 
-- Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang (selanjutnya disebut UU KUP)
-- Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang (selanjutnya disebut UU PPh)
-- Peraturan Pemerintah No. 55 Tahun 2022 Tentang Penyesuaian Pengaturan di Bidang Pajak Penghasilan.
-- Peraturan Menteri Keuangan Nomor 147/PMK.03/2017 tentang Tata Cara Pendaftaran Wajib Pajak dan Penghapusan Nomor Pokok Wajib Pajak serta Pengukuhan dan Pencabutan Pengukuhan Pengusaha Kena Pajak
-- Peraturan Menteri Keuangan Nomor 243/PMK.03/2014 Tentang Surat Pemberitahuan (SPT) sebagaimana telah diubah terakhir dengan Pera­turan Menteri Keuangan Republik Indonesia Nomor 18/PMK.03/2021 tentang Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan.
-- Peraturan Menteri Keuangan Nomor 252/PMK.03/2008 tentang Petunjuk Pelaksanaan Pemotongan Pajak atas Penghasilan Sehu­bungan dengan Pekerjaan, Jasa, dan Kegiatan Orang Pribadi.
-- Peraturan Direktur Jenderal Pajak Nomor Per-17/PJ/2015 tentang Norma Penghitungan Penghasilan Neto.
-- Peraturan Dirjen Pajak Nomor Per-16/PJ/2016 Tentang Pedoman Teknis Tata Cara Pemoton­gan, Penyetoran Dan Pelaporan Pajak Penghas­ilan Pasal 21 Dan/Atau Pajak Penghasilan Pasal 26 Sehubungan Dengan Pekerjaan, Jasa, Dan Kegiatan Orang Pribadi.
-- Peraturan Dirjen Pajak Nomor Per-1/PJ/2023 tentang Pedoman Teknis Tata Cara Pemotongan, Penyetoran, dan Pelaporan Pajak Penghasilan Pasal 23 atas Penghasilan Royalti yang Diterima atau Diperoleh Wajib Pajak Orang Pribadi yang Menerapkan Penghitungan Pajak Penghasilan Menggunakan Norma Penghitungan Penghasilan Neto.
+[^1]: Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang (selanjutnya disebut UU KUP)
+[^2]: Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang (selanjutnya disebut UU PPh)
+[^3]: Peraturan Pemerintah Nomor 55 Tahun 2022 Tentang Penyesuaian Pengaturan di Bidang Pajak Penghasilan [:material-open-in-new:](https://jdih.kemenkeu.go.id/en/dokumen/peraturan/2b7d65f8-4325-4007-669d-08db0e642ddb){target="_blank"}
+[^4]: Peraturan Menteri Keuangan Nomor 147/PMK.03/2017 tentang Tata Cara Pendaftaran Wajib Pajak dan Penghapusan Nomor Pokok Wajib Pajak serta Pengukuhan dan Pencabutan Pengukuhan Pengusaha Kena Pajak
+[^5]: Peraturan Menteri Keuangan Nomor 243/PMK.03/2014 Tentang Surat Pemberitahuan (SPT) sebagaimana telah diubah terakhir dengan Pera­turan Menteri Keuangan Republik Indonesia Nomor 18/PMK.03/2021 tentang Pelaksanaan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja di Bidang Pajak Penghasilan, Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah, serta Ketentuan Umum dan Tata Cara Perpajakan.
+[^6]: Peraturan Menteri Keuangan Nomor 252/PMK.03/2008 tentang Petunjuk Pelaksanaan Pemotongan Pajak atas Penghasilan Sehu­bungan dengan Pekerjaan, Jasa, dan Kegiatan Orang Pribadi.
+[^7]: Peraturan Direktur Jenderal Pajak Nomor Per-17/PJ/2015 tentang Norma Penghitungan Penghasilan Neto.
+[^8]: Peraturan Dirjen Pajak Nomor Per-16/PJ/2016 Tentang Pedoman Teknis Tata Cara Pemoton­gan, Penyetoran Dan Pelaporan Pajak Penghas­ilan Pasal 21 Dan/Atau Pajak Penghasilan Pasal 26 Sehubungan Dengan Pekerjaan, Jasa, Dan Kegiatan Orang Pribadi.
+[^9]: Peraturan Dirjen Pajak Nomor Per-1/PJ/2023 tentang Pedoman Teknis Tata Cara Pemotongan, Penyetoran, dan Pelaporan Pajak Penghasilan Pasal 23 atas Penghasilan Royalti yang Diterima atau Diperoleh Wajib Pajak Orang Pribadi yang Menerapkan Penghitungan Pajak Penghasilan Menggunakan Norma Penghitungan Penghasilan Neto.
+
+
 {{ referensi() }}

@@ -10,5 +10,5 @@ for path, subdirs, files in os.walk('docs'):
             else:
                 file.close()
                 with open(os.path.join(os. getcwd(),path, name), 'a') as append:
-                    append.write(REFERENSI)
+                    append.write('\n\n' + REFERENSI)
                     append.close

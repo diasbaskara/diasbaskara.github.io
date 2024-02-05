@@ -3,6 +3,7 @@ site_url: https://diasbaskara.id/
 
 theme:
   name: material
+  custom_dir: overrides
   language: id
   features:
     - navigation.tabs
@@ -17,6 +18,7 @@ theme:
     - search.suggest
     - search.highlight
     - content.tooltips
+    - announce.dismiss
 
   font:
     text: Work Sans

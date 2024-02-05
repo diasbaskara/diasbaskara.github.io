@@ -4,3 +4,5 @@
 *[NPWP]: Nomor Pokok Wajib Pajak
 *[PPh]: Pajak Penghasilan
 *[PPN]: Pajak Pertambahan Nilai
+*[SPT]: Surat Pemberitahuan
+*[PBB]: Pajak Bumi dan Bangunan
