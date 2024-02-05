@@ -12,12 +12,12 @@
 
     Ada empat kategori pendaftaran Nomor Pokok Wajib Pajak Orang Pribadi, yaitu :
 
-    | No. | Kategori | Keterangan |
-    | | | |
-    | 1 | Wajib Pajak orang pribadi baik yang melakukan kegiatan usaha atau pekerjaan bebas maupun yang tidak melakukan kegiatan usaha atau pekerjaan bebas. | Contoh: karyawan/pegawai, pengusaha, pekerja lepas, pedagang, dan sejenisnya. |
-    | 2 | Wajib Pajak orang pribadi yang belum memenuhi persyaratan subjektif atau objektif sesuai dengan ketentuan peraturan perundang-undangan di bidang perpajakan namun berkeinginan mendaftarkan dirinya untuk memperoleh NPWP. | Contoh: pelamar kerja yang belum memiliki penghasilan, mahasiswa yang belum memiliki penghasilan, dan sejenisnya. |
-    | 3 | Apabila sudah memiliki NPWP pribadi, lalu mendapatkan penghasilan berasal dari usaha dan/atau pekerjaan bebas pada 1 (satu) atau lebih tempat kegiatan usaha yang berbeda dengan tempat tinggal Wajib Pajak. | - |
-    | 4 | Warisan Belum Terbagi.  | Dalam hal Wajib Pajak orang pribadi yang meninggalkan warisan belum memiliki NPWP, dan dari warisan tersebut diterima atau diperoleh penghasilan. |
+    | Kategori | Keterangan |
+    | | |
+    | Wajib Pajak orang pribadi baik yang melakukan kegiatan usaha atau pekerjaan bebas maupun yang tidak melakukan kegiatan usaha atau pekerjaan bebas. | Contoh: karyawan/pegawai, pengusaha, pekerja lepas, pedagang, dan sejenisnya. |
+    | Wajib Pajak orang pribadi yang belum memenuhi persyaratan subjektif atau objektif sesuai dengan ketentuan peraturan perundang-undangan di bidang perpajakan namun berkeinginan mendaftarkan dirinya untuk memperoleh NPWP. | Contoh: pelamar kerja yang belum memiliki penghasilan, mahasiswa yang belum memiliki penghasilan, dan sejenisnya. |
+    | Apabila sudah memiliki NPWP pribadi, lalu mendapatkan penghasilan berasal dari usaha dan/atau pekerjaan bebas pada 1 (satu) atau lebih tempat kegiatan usaha yang berbeda dengan tempat tinggal Wajib Pajak. | - |
+    | Warisan Belum Terbagi.  | Dalam hal Wajib Pajak orang pribadi yang meninggalkan warisan belum memiliki NPWP, dan dari warisan tersebut diterima atau diperoleh penghasilan. |
 
 
     Berikut dokumen yang harus dilampirkan:
