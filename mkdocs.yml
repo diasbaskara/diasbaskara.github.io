@@ -1,10 +1,9 @@
 site_name: Belajar Pajak
 site_url: https://diasbaskara.id/
 
-nav:
-    - ...
-    - tags.md
-    - about.md
+# nav:
+#   - ...
+#   - about.md
 
 theme:
   name: material
@@ -20,6 +19,7 @@ theme:
     - navigation.sections
     - navigation.tracking
     - navigation.instant
+    - navigation.instant.progress
     - header.autohide
     - toc.follow
     - search.suggest
@@ -42,13 +42,7 @@ theme:
 
 plugins:
   - search
-  - awesome-pages:
-      filename: .index
-      collapse_single_pages: true
-      strict: false
-      order: asc
-      sort_type: natural
-      order_by: title
+  - awesome-pages
   - table-reader
   - blog
   - rss:
@@ -74,7 +68,7 @@ plugins:
       background: white
       shadow: true
   - tags:
-      tags_file: tags.md
+      tags_file: tags/index.md
 
 markdown_extensions:
   - abbr
@@ -114,7 +108,6 @@ markdown_extensions:
   - pymdownx.tilde
   - pymdownx.details
   
-
 watch:
   - includes
 
