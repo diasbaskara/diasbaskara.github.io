@@ -1,3 +1,0 @@
-# Peraturan Menteri Keuangan
-
-{{ referensi() }}

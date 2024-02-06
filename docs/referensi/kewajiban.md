@@ -1,3 +1,0 @@
-# Kewajiban Wajib Pajak
-
-{{ referensi() }}

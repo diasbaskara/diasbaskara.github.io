@@ -1,3 +1,0 @@
-# Surat Pemberitahuan
-
-{{ referensi() }}

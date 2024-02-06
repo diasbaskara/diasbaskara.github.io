@@ -1,5 +1,0 @@
-kdf_iterations: 10000
-obfuscate: {}
-password:
-  belajar: 64c04069d788f726e9ca6181b3526c6cc362ff3c23a171b7becf0857e9136c5a;1a03e70e2dc7d4b5d62d42e7c74430dc;e0b71a0d0594765a9ec75984e9f31b1097c43e1c436a0e15fdc46284a4e44bdc
-userpass: {}

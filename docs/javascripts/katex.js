@@ -8,4 +8,3 @@ document$.subscribe(({ body }) => {
     ],
   });
 });
-{{ referensi() }}

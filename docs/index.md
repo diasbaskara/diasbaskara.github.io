@@ -10,12 +10,3 @@ Selamat datang di Belajar Pajak!
 - :material-checkbox-marked-circle-outline: [Referensi](/referensi) – Temukan definisi dan penjelasan dari istilah-istilah pajak.
 
 </div>
-
-``` mermaid
-graph LR
-  A[Mulai] --> B{NPWP?};
-  B -->|Sudah punya| C[Bagus!];
-  B ---->|Belum punya| E[Yuk, daftar sekarang!];
-```
-
-{{ referensi() }}
