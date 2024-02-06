@@ -15,13 +15,14 @@ theme:
     - navigation.expand
     - navigation.top
     - navigation.footer
-    - navigation.indexes
+    # - navigation.indexes
     - navigation.sections
     - navigation.tracking
     - navigation.instant
     - navigation.instant.progress
     - header.autohide
     - toc.follow
+    - toc.integrate
     - search.suggest
     - search.highlight
     - content.tooltips
@@ -37,8 +38,8 @@ theme:
 
   palette:
     scheme: slate
-    primary: black
-    accent: grey
+    # primary: black
+    # accent: grey
 
 plugins:
   - search
