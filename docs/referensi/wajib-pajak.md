@@ -5,7 +5,7 @@ Wajib Pajak adalah orang pribadi atau badan, meliputi pembayar pajak, pemotong p
 
 === "Wajib Pajak Orang Pribadi"
 
-    {{ read_csv('tables/wajib-pajak.csv') }}
+    {{ read_csv('docs/assets/tables/wajib-pajak.csv') }}
 
 === "Wajib Pajak Badan"
 
@@ -14,7 +14,7 @@ Wajib Pajak adalah orang pribadi atau badan, meliputi pembayar pajak, pemotong p
     3. Nulla tempor lobortis orci
 
 #### Wajib Pajak Orang Pribadi
-{{ read_csv('tables/wajib-pajak.csv') }}
+{{ read_csv('docs/assets/tables/wajib-pajak.csv') }}
 
 ##### Subjek Pajak Dalam Negeri
 - OP yang bertempat tinggal di Indonesia, atau OP yang tinggal di Indonesia > 183 hari dalam kurun waktu 12 bulan (setahun); dan/atau

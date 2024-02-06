@@ -1,6 +1,10 @@
 site_name: Belajar Pajak
 site_url: https://diasbaskara.id/
-
+nav:
+    - ...
+    - tags.md
+    - FAQs: FAQs
+    - tentang.md
 theme:
   name: material
   custom_dir: overrides
@@ -13,12 +17,19 @@ theme:
     - navigation.footer
     - navigation.indexes
     - navigation.sections
+    - navigation.tracking
+    - navigation.instant
     - header.autohide
     - toc.follow
     - search.suggest
     - search.highlight
     - content.tooltips
     - announce.dismiss
+  icon:
+    tag:
+      html: fontawesome/brands/html5
+      js: fontawesome/brands/js
+      css:  fontawesome/brands/css3
 
   font:
     text: Work Sans
@@ -32,11 +43,15 @@ plugins:
   - search
   - awesome-pages
   - table-reader
-  - tags
-  - blogging:
-      features:
-        tags: {}
   - macros
+  - blog
+  - rss:
+      match_path: blog/posts/.* 
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags 
   - glightbox:
       touchNavigation: true
       loop: false
@@ -52,6 +67,10 @@ plugins:
       caption_position: bottom
       background: white
       shadow: true
+  - tags:
+      tags_file: tags.md
+  # - encryptcontent:
+  #   global_password: 'belajar'
 
 extra:
   social:
@@ -61,6 +80,10 @@ extra:
     - icon: fontawesome/brands/github 
       link: https://github.com/diasbaskara
       name: diasbaskara on GitHub
+  tags:
+    HTML5: html
+    JavaScript: js
+    CSS: css
 
 copyright: Copyright &copy; 2024 Dias Baskara
 

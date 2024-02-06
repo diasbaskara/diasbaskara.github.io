@@ -5,9 +5,9 @@ Berikut ini adalah administrasi perpajakan yang terdiri dari daftar, hitung, bay
 <div class="grid cards" markdown>
 
 - :material-checkbox-marked-circle-outline: [Daftar](/administrasi/daftar) – Bagaimana cara mendaftarkan diri sebagai Wajib Pajak?
-- :material-checkbox-marked-circle-outline: [Hitung](/administrasi/hitung) – Bagaimana cara menghitung pajak?
+- :material-checkbox-marked-circle-outline: [Hitung](/administrasi/hitung) – Bagaimana cara menghitung pajak terutang?
 - :material-checkbox-marked-circle-outline: [Bayar](/administrasi/bayar) – Bagaimana cara melakukan pembayaran/penyetoran atas pajak terutang?
-- :material-checkbox-marked-circle-outline: [Lapor](/administrasi/lapor) – Bagaimana cara melaporkan pajak?
+- :material-checkbox-marked-circle-outline: [Lapor](/administrasi/lapor) – Bagaimana cara melaporkan pajak yang telah dibayarkan/disetorkan?
 
 </div>
 

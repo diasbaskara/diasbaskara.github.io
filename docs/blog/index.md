@@ -1,4 +1,5 @@
-# Blogs
+---
+exclude_from_blog: true
+---
 
-test 
-{{ blog_content }}
+# Blogs
