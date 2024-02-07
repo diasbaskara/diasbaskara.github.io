@@ -88,6 +88,8 @@ memungut, menyetor, dan menyampaikan SPT Masa PPN apabila telah dikukuhkan sebag
 
     $Penghasilan$ $Neto$ $=$ $%$ $Norma$ $×$ $Penghasilan$ $Bruto$
     
+---
+
 <div class="grid cards" markdown>
 
 -   Penghasilan Kena Pajak
