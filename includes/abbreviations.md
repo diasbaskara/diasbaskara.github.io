@@ -24,3 +24,4 @@
 *[K/1/1]: Penghasilan suami dan istri digabung dan memiliki satu tanggungan.
 *[K/1/2]: Penghasilan suami dan istri digabung dan memiliki dua tanggungan.
 *[K/1/3]: Penghasilan suami dan istri digabung dan memiliki tiga tanggungan.
+*[BUT]: Bentuk Usaha Tetap
