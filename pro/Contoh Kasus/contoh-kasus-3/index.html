@@ -76,6 +76,8 @@
     
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css">
     
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
+    
     <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -96,6 +98,8 @@
   
   
     
+    
+      
     
     
     
@@ -166,7 +170,19 @@
     </div>
     
       
+        <form class="md-header__option" data-md-component="palette">
+  
     
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-hidden="true"  type="radio" name="__palette" id="__palette_0">
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
     
     
     
@@ -262,6 +278,8 @@
         <a href="../../../adm/" class="md-tabs__link">
           
   
+    
+  
   Administrasi
 
         </a>
@@ -279,6 +297,8 @@
       <li class="md-tabs__item">
         <a href="../../../blog/" class="md-tabs__link">
           
+  
+    
   
   Blog
 
@@ -298,6 +318,8 @@
         <a href="../../../faq/" class="md-tabs__link">
           
   
+    
+  
   FAQ
 
         </a>
@@ -315,6 +337,8 @@
       <li class="md-tabs__item">
         <a href="../../../per/" class="md-tabs__link">
           
+  
+    
   
   Peraturan
 
@@ -336,6 +360,8 @@
         <a href="../../" class="md-tabs__link">
           
   
+    
+  
   Profesi
 
         </a>
@@ -353,6 +379,8 @@
       <li class="md-tabs__item">
         <a href="../../../ref/" class="md-tabs__link">
           
+  
+    
   
   Referensi
 
@@ -388,9 +416,7 @@
   
 
 
-  
-
-<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigasi" data-md-level="0">
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigasi" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
     <a href="../../.." title="Belajar Pajak" class="md-nav__button md-logo" aria-label="Belajar Pajak" data-md-component="logo">
       
@@ -451,6 +477,14 @@
   
     
     
+      
+        
+          
+        
+      
+        
+      
+    
     
     
     
@@ -467,16 +501,24 @@
         <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
         
           
-          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
-            
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../adm/" class="md-nav__link ">
+              
   
   <span class="md-ellipsis">
     Administrasi
   </span>
   
 
-            <span class="md-nav__icon md-icon"></span>
-          </label>
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3" id="__nav_3_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
         
         <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_3">
@@ -486,25 +528,6 @@
           <ul class="md-nav__list" data-md-scrollfix>
             
               
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../../adm/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Administrasi
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
             
               
                 
@@ -513,6 +536,12 @@
   
   
     
+    
+      
+        
+          
+        
+      
     
     
     
@@ -530,16 +559,19 @@
         <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2" >
         
           
-          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="">
-            
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../adm/1-daftar/" class="md-nav__link ">
+              
   
   <span class="md-ellipsis">
     Pendaftaran
   </span>
   
 
-            <span class="md-nav__icon md-icon"></span>
-          </label>
+            </a>
+            
+          </div>
         
         <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_3_2">
@@ -549,48 +581,39 @@
           <ul class="md-nav__list" data-md-scrollfix>
             
               
-                
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
   
   
   
   
-    <li class="md-nav__item">
-      <a href="../../../adm/1-daftar/" class="md-nav__link">
+    
+    
+      
         
-  
-  <span class="md-ellipsis">
-    Pendaftaran
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
+          
+        
       
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
+        
       
-    </li>
-  
-
-    
+        
       
-      
-  
-  
-  
-  
-    
     
     
     
@@ -608,16 +631,24 @@
         <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
         
           
-          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
-            
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../blog/" class="md-nav__link ">
+              
   
   <span class="md-ellipsis">
     Blog
   </span>
   
 
-            <span class="md-nav__icon md-icon"></span>
-          </label>
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_4" id="__nav_4_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
         
         <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_4">
@@ -627,27 +658,6 @@
           <ul class="md-nav__list" data-md-scrollfix>
             
               
-                
-  
-  
-  
-    
-  
-  
-    <li class="md-nav__item">
-      <a href="../../../blog/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Blogs
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
             
               
                 
@@ -656,6 +666,10 @@
   
   
     
+    
+      
+        
+      
     
     
     
@@ -729,6 +743,12 @@
   
   
     
+    
+      
+        
+      
+        
+      
     
     
     
@@ -833,6 +853,16 @@
   
     
     
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
     
     
     
@@ -849,16 +879,24 @@
         <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
         
           
-          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
-            
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../faq/" class="md-nav__link ">
+              
   
   <span class="md-ellipsis">
     FAQ
   </span>
   
 
-            <span class="md-nav__icon md-icon"></span>
-          </label>
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_5" id="__nav_5_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
         
         <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_5">
@@ -867,25 +905,6 @@
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../../faq/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Frequently Asked Questions
-  </span>
-  
-
-      </a>
-    </li>
-  
-
               
             
               
@@ -945,6 +964,16 @@
   
     
     
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
     
     
     
@@ -961,16 +990,24 @@
         <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
         
           
-          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
-            
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../per/" class="md-nav__link ">
+              
   
   <span class="md-ellipsis">
     Peraturan
   </span>
   
 
-            <span class="md-nav__icon md-icon"></span>
-          </label>
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_6" id="__nav_6_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
         
         <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_6">
@@ -980,25 +1017,6 @@
           <ul class="md-nav__list" data-md-scrollfix>
             
               
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../../per/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Peraturan
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
             
               
                 
@@ -1007,6 +1025,12 @@
   
   
     
+    
+      
+        
+          
+        
+      
     
     
     
@@ -1024,16 +1048,19 @@
         <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_2" >
         
           
-          <label class="md-nav__link" for="__nav_6_2" id="__nav_6_2_label" tabindex="">
-            
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../per/perdirjenpajak/" class="md-nav__link ">
+              
   
   <span class="md-ellipsis">
     Peraturan Direktur Jenderal Pajak
   </span>
   
 
-            <span class="md-nav__icon md-icon"></span>
-          </label>
+            </a>
+            
+          </div>
         
         <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_2_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_6_2">
@@ -1042,25 +1069,6 @@
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../../per/perdirjenpajak/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Peraturan Direktur Jenderal Pajak
-  </span>
-  
-
-      </a>
-    </li>
-  
-
               
             
           </ul>
@@ -1079,6 +1087,18 @@
   
     
     
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
     
     
     
@@ -1095,16 +1115,24 @@
         <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_3" >
         
           
-          <label class="md-nav__link" for="__nav_6_3" id="__nav_6_3_label" tabindex="">
-            
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../per/pmk/" class="md-nav__link ">
+              
   
   <span class="md-ellipsis">
     Peraturan Menteri Keuangan
   </span>
   
 
-            <span class="md-nav__icon md-icon"></span>
-          </label>
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_6_3" id="__nav_6_3_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
         
         <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_3_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_6_3">
@@ -1113,25 +1141,6 @@
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../../per/pmk/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Peraturan Menteri Keuangan
-  </span>
-  
-
-      </a>
-    </li>
-  
-
               
             
               
@@ -1222,6 +1231,50 @@
   
     
     
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
     
     
     
@@ -1236,16 +1289,24 @@
         <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" checked>
         
           
-          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="">
-            
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../" class="md-nav__link ">
+              
   
   <span class="md-ellipsis">
     Profesi
   </span>
   
 
-            <span class="md-nav__icon md-icon"></span>
-          </label>
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_7" id="__nav_7_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
         
         <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_7">
@@ -1254,25 +1315,6 @@
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Pajak Profesi
-  </span>
-  
-
-      </a>
-    </li>
-  
-
               
             
               
@@ -1663,6 +1705,16 @@
   
     
     
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
     
     
     
@@ -1810,6 +1862,44 @@
   
     
     
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
     
     
     
@@ -1826,16 +1916,24 @@
         <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_8" >
         
           
-          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="">
-            
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../ref/" class="md-nav__link ">
+              
   
   <span class="md-ellipsis">
     Referensi
   </span>
   
 
-            <span class="md-nav__icon md-icon"></span>
-          </label>
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_8" id="__nav_8_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
         
         <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_8">
@@ -1844,25 +1942,6 @@
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../../ref/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Referensi
-  </span>
-  
-
-      </a>
-    </li>
-  
-
               
             
               
@@ -2215,6 +2294,22 @@
               </div>
             
             
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Daftar isi">
+  
+  
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
           
           
             <div class="md-content" data-md-component="content">
@@ -2225,58 +2320,7 @@
 
   <h1>Contoh kasus 3</h1>
 
-<p>Himawan adalah Arsitek yang berkantor di Ibukota Jakarta. Himawan memiliki status <abbr title="Seseorang yang telah menikah dan memiliki dua tanggungan.">K/2</abbr>, selama Tahun Pajak 2022 peredaran bruto dari profesinya sebagai Arsitek adalah sebesar Rp5.250.000.000,00 (lima miliar dua ratus lima puluh juta Rupiah). Dalam menghitung penghasilan neto Himawan menyelenggarakan pembukuan. Biaya untuk mendapatkan, menagih, dan memelihara penghasilan (biaya 3M) selama Tahun Pajak 2022 yang dapat menjadi pengurang peredaran bruto fiskal adalah sebesar Rp2.000.511.000,00 (dua miliar lima ratus sebelas ribu rupiah). Himawan telah mengangsur <abbr title="Pajak Penghasilan">PPh</abbr> Pasal 25 perbulan dengan total selama Tahun Pajak 2022 sebesar Rp62.703.600,00. Himawan memiliki bukti potong <abbr title="Pajak Penghasilan">PPh</abbr> Pasal 21 atas penghasilan yang telah dipotong oleh kliennya sebesar Rp350.000.000,00. Besarnya <abbr title="Pajak Penghasilan">PPh</abbr> terutang yang masih harus dibayar oleh Himawan adalah sebesar :</p>
-<p>A.</p>
-<p>Peredaran Bruto</p>
-<p>Rp5.250.000.000,00</p>
-<p>B.</p>
-<p>Biaya 3M</p>
-<p>Rp2.000.511.000,00</p>
-<p>C.</p>
-<p>Penghasilan Netto Fiskal (huruf A – huruf B)</p>
-<p>Rp3.249.489.000,00</p>
-<p>D.</p>
-<p>Penghasilan Tidak Kena Pajak (<abbr title="Penghasilan Tidak Kena Pajak">PTKP</abbr>)</p>
-<ol>
-<li>
-<p>Wajib Pajak Rp54.000.000,00</p>
-</li>
-<li>
-<p>Wajib Pajak Kawin Rp4.500.000,00</p>
-</li>
-<li>
-<p>Tanggungan 2 anak Rp9.000.000,00</p>
-</li>
-</ol>
-<p>Total <abbr title="Penghasilan Tidak Kena Pajak">PTKP</abbr></p>
-<p>Rp67.500.000,00</p>
-<p>E.</p>
-<p>Penghasikan Kena Pajak (huruf C - huruf D)</p>
-<p>Rp3.181.989.000,00</p>
-<p>F.</p>
-<p><abbr title="Pajak Penghasilan">PPh</abbr> terutang Tarif Pasal 17 UU <abbr title="Pajak Penghasilan">PPh</abbr>:</p>
-<p>5% x Rp60.000.000,00 = Rp3.000.000,00</p>
-<p>15% x Rp190.000.000,00 = Rp28.500.000,00</p>
-<p>25% x Rp250.000.000,00 = Rp62.500.000,00</p>
-<p>30% x Rp2.681.989.000,00 = Rp804.596.700,00</p>
-<p>Rp898.596.700,00</p>
-<p>G.</p>
-<p>Kredit Pajak Kredit Pajak:</p>
-<ol>
-<li>
-<p>Angsuran <abbr title="Pajak Penghasilan">PPh</abbr> Pasal 25: Rp62.703.600,00</p>
-</li>
-<li>
-<p><abbr title="Pajak Penghasilan">PPh</abbr> Pasal 21yang sudah dipotong: Rp350.000.000,00</p>
-</li>
-</ol>
-<p>Total Kredit Pajak</p>
-<p>Rp412.703.600,00</p>
-<p>H.</p>
-<p><abbr title="Pajak Penghasilan">PPh</abbr> terutang Pasal 29 (huruf F – huruf G)</p>
-<p>Rp485.893.100,00</p>
-<p><abbr title="Pajak Penghasilan">PPh</abbr> Pasal 29 tersebut wajib dibayarkan oleh Himawan sebelum menyampaikan Surat Pemberitahuan Tahunan (<abbr title="Surat Pemberitahuan">SPT</abbr>) <abbr title="Pajak Penghasilan">PPh</abbr>-nya.</p>
-<p>Lebih lanjut di: https://pajak.go.id/id/arsitek</p>
+
 
 
 
@@ -2395,7 +2439,7 @@
       <div class="md-progress" data-md-component="progress" role="progressbar"></div>
     
     
-    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.expand", "navigation.top", "navigation.footer", "navigation.sections", "navigation.tracking", "navigation.instant", "navigation.instant.progress", "header.autohide", "toc.follow", "toc.integrate", "search.suggest", "search.highlight", "content.tooltips", "announce.dismiss"], "search": "../../../assets/javascripts/workers/search.b8dbb3d2.min.js", "tags": {"CSS": "css", "HTML5": "html", "JavaScript": "js"}, "translations": {"clipboard.copied": "Tersalin ke clipboard", "clipboard.copy": "Salin ke clipboard", "search.result.more.one": "1 lagi di halaman ini", "search.result.more.other": "# lagi di halaman ini", "search.result.none": "Tidak ada dokumen yang sesuai", "search.result.one": "1 dokumen ditemukan", "search.result.other": "# dokumen ditemukan", "search.result.placeholder": "Ketik untuk mulai pencarian", "search.result.term.missing": "Tidak ada", "select.version": "Pilih versi"}}</script>
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.expand", "navigation.top", "navigation.footer", "navigation.sections", "navigation.tracking", "navigation.instant", "navigation.instant.progress", "navigation.indexes", "header.autohide", "toc.follow", "search.suggest", "search.highlight", "content.tooltips", "announce.dismiss"], "search": "../../../assets/javascripts/workers/search.b8dbb3d2.min.js", "tags": {"CSS": "css", "HTML5": "html", "JavaScript": "js"}, "translations": {"clipboard.copied": "Tersalin ke clipboard", "clipboard.copy": "Salin ke clipboard", "search.result.more.one": "1 lagi di halaman ini", "search.result.more.other": "# lagi di halaman ini", "search.result.none": "Tidak ada dokumen yang sesuai", "search.result.one": "1 dokumen ditemukan", "search.result.other": "# dokumen ditemukan", "search.result.placeholder": "Ketik untuk mulai pencarian", "search.result.term.missing": "Tidak ada", "select.version": "Pilih versi"}}</script>
     
     
       <script src="../../../assets/javascripts/bundle.caa56a14.min.js"></script>
@@ -2409,6 +2453,12 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js"></script>
       
         <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js"></script>
+      
+        <script src="../../../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
   <script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
