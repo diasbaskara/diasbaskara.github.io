@@ -62,9 +62,13 @@
 
         - [x] fotokopi akta kematian, surat keterangan kematian, atau dokumen lain yang dipersamakan dari Wajib Pajak orang pribadi yang meninggal dunia; dan
         - dokumen yang menunjukkan kedudukan sebagai wakil Wajib Pajak Warisan Belum Terbagi, sebagai berikut:
+        === "Diwakili oleh ahli waris"
             - [x] fotokopi Kartu NPWP salah satu ahli waris, dalam hal warisan yang belum terbagi diwakili oleh salah satu ahli waris;
-            - [x] fotokopi akta wasiat, surat wasiat, atau dokumen lain yang dipersamakan, dan fotokopi Kartu NPWP pelaksana wasiat, dalam hal warisan yang belum terbagi diwakili oleh pelaksana wasiat; atau
+        === "Diwakili oleh pelaksana waris"
+            - [x] fotokopi akta wasiat, surat wasiat, atau dokumen lain yang dipersamakan, dan fotokopi Kartu NPWP pelaksana wasiat, dalam hal warisan yang belum terbagi diwakili oleh pelaksana wasiat;
+        === "Diwakili oleh pihak yang mengurus harta peninggalan"
             - [x] fotokopi dokumen penunjukan pihak yang mengurus harta peninggalan dan fotokopi Kartu NPWP pihak yang mengurus harta peninggalan, dalam hal warisan yang belum terbagi diwakili oleh pihak yang mengurus harta peninggalan.
+            
 
 === "Wajib Pajak Badan"
 
