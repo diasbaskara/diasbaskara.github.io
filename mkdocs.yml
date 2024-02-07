@@ -15,14 +15,14 @@ theme:
     - navigation.expand
     - navigation.top
     - navigation.footer
-    # - navigation.indexes
     - navigation.sections
     - navigation.tracking
     - navigation.instant
     - navigation.instant.progress
+    - navigation.indexes
     - header.autohide
     - toc.follow
-    - toc.integrate
+    # - toc.integrate
     - search.suggest
     - search.highlight
     - content.tooltips
@@ -37,9 +37,7 @@ theme:
     text: Work Sans
 
   palette:
-    scheme: slate
-    # primary: black
-    # accent: grey
+    - scheme: slate
 
 plugins:
   - search
@@ -131,8 +129,12 @@ extra_javascript:
   - javascripts/katex.js
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
-
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
+  - stylesheets/extra.css
 
 copyright: Copyright &copy; 2024 Dias Baskara

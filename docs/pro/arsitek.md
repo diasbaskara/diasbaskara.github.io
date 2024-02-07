@@ -96,7 +96,7 @@ memungut, menyetor, dan menyampaikan SPT Masa PPN apabila telah dikukuhkan sebag
 
     ---
 
-    $Penghasilan$ $Kena$ $Pajak$ $=$ $Penghasilan$ $Neto$ $-$ [$PTKP$](/referensi/ptkp)
+    $Penghasilan$ $Kena$ $Pajak$ $=$ $Penghasilan$ $Neto$ $-$ $PTKP$
     
 </div>
 
@@ -140,6 +140,317 @@ PPh 23 atas royalti = 15% X Jumlah bruto royalti
 Arsitek akan mendapatkan bukti potong PPh Pasal 21/ PPh Pasal 23 tersebut yang dapat dipergunakan sebagai kredit pajak untuk mengurangi PPh yang harus dibayar pada SPT Tahunan.
 Apabila pemberi imbalan jasa  menggunakan Arsitek Asing maka diwajibkan untuk melakukan pemotongan PPh Pasal 26 dengan tarif pajak 20% atau dengan tarif sesuai dengan tax treaty yang ber­laku.
 Apabila Arsitek memberikan jasa ke luar negeri, maka bukti potong atas penghasilan jasa luar negeri dapat dikreditkan selama sesuai dengan peraturan perpajakan.
+
+## Contoh Kasus
+### Contoh Kasus - 1
+
+Tuan Hafiz Karim dengan status TK/0 adalah seorang Arsitek pada bulan Maret 2022 menerima fee sebesar Rp 300.000.000,00 dari PT Pembangunan Perumahan sebagai imbalan pemberian jasa atas desain rumah proyek Bougenville Es­tate. Bapak Hafiz menerima bukti potong PPh Pasal 21 sebagai berikut :
+
+Penghasilan Kena Pajak        = 50% X 300.000.000
+
+                                                = 150.000.000
+
+PPh Pasal 21:
+
+5%X 60.000.000                     = 3.000.000
+
+15% X 90.000.000                  = 13.500.000
+
+Jumlah                                    = 16.500.000
+
+Selama Tahun 2022, Tuan Hafiz Karim memperoleh penghasilan sebagai berikut:
+
+a
+
+Desain Rumah proyek Bougenville
+
+Rp300.000.000,00
+
+b
+
+Desain Apartemen Nona Dewi
+
+Rp120.000.000,00
+
+c
+
+Desain Rumah Tinggal Tuan Doni
+
+Rp80.000.000,00
+
+Untuk Desain Apartemen Nona Dewi dan Tuan Doni tidak dilakukan pemotongan PPh 21 karena pemberi kerja adalah wajib pajak orang pribadi.
+
+Besarnya PPh terutang yang masih harus dibayar Tn Hafiz Karim adalah sebesar:
+
+ 
+
+Penghasilan Bruto
+
+Rp500.000.000,00
+
+Norma Penghitungan Penghasilan Neto
+
+ 
+
+50% x Penghasilan Bruto
+
+ 
+
+Penghasilan Neto
+
+Rp250.000.000,00
+
+Penghasilan Tidak Kena Pajak (PTKP) TK/0
+
+Rp54.000.000,00
+
+Penghasilan Kena Pajak (PKP)
+
+Rp196.000.000,00
+
+PPh terutang:
+
+   
+
+5% X 60.000.000 = 3.000.000
+
+ 
+
+15% X 136.000.000 = 20.400.000
+
+Rp23.400.000,00
+
+Kredit PPh 21
+
+Rp16.500.000,00
+
+PPh yang harus dibayar
+
+Rp6.900.000,00
+
+
+### Contoh Kasus - 2
+
+Anissa adalah Arsitek yang berkantor di Ibukota Jakarta. Anissa memiliki status TK/0, selama tahun 2022 peredaran bruto dari profesinya sebagai Arsitek adalah sebesar Rp4.250.000.000,00 (empat miliar dua ratus lima puluh juta Rupiah). Annisa telah mengangsur PPh Pasal 25 per bulan, dengan total selama tahun 2022 sebesar Rp62.703.600,00. Annisa memiliki bukti potong PPh Pasal 21 atas peng­hasilan yang telah dipotong oleh kliennya sebesar Rp300.000.000,00. Besarnya PPh terutang yang masih harus dibayar oleh Annisa adalah sebesar:
+
+A.
+
+Peredaran Bruto
+
+Rp4.250.000.000,00
+
+B.
+
+Persentase NPPN
+
+50%
+
+C.
+
+Penghasilan Netto (huruf A x huruf B)
+
+Rp2.125.000.000,00
+
+D.
+
+Penghasilan Tidak Kena Pajak (PTKP) TK/0
+
+Rp54.000.000,00
+
+E.
+
+Penghasilan Kena Pajak (huruf C - huruf D)
+
+Rp2.071.000.000,00
+
+F.
+
+PPh terutang Tarif Pasal 17 UU PPh:
+
+5% x Rp60.000.000,00= Rp3.000.000,00
+
+15% x Rp190.000.000,00 = Rp28.500.000,00
+
+25% x Rp250.000.000,00 = Rp62.500.000,00
+
+30% x Rp1.571.000.000,00 = Rp471.300.000,00
+
+Rp565.300.000,00
+
+G.
+
+Kredit Pajak:
+
+1. Angsuran PPh Pasal 25: Rp62.703.600,00
+
+2. PPh Pasal 21yang sudah dipotong: Rp300.000.000,00
+
+Total Kredit Pajak
+
+Rp362.703.600,00
+
+H.
+
+PPh terutang Pasal 29 (huruf F – huruf G)
+
+Rp202.596.400,00
+
+PPh Pasal 29 tersebut wajib dibayarkan oleh Annisa sebelum Annisa menyampaikan Surat Pemberitahuan Tahunan (SPT) PPh-nya.
+
+
+### Contoh Kasus - 3
+
+Himawan adalah Arsitek yang berkantor di Ibukota Jakarta. Himawan memiliki status K/2, selama Tahun Pajak 2022 peredaran bruto dari profesinya sebagai Arsitek adalah sebesar Rp5.250.000.000,00 (lima miliar dua ratus lima puluh juta Rupiah). Dalam menghitung penghasilan neto Himawan menyelenggarakan pembukuan. Biaya untuk mendapatkan, menagih, dan memelihara penghasilan (biaya 3M) selama Tahun Pajak 2022 yang dapat menjadi pengurang peredaran bruto fiskal adalah sebesar Rp2.000.511.000,00 (dua miliar lima ratus sebelas ribu rupiah). Himawan telah mengangsur PPh Pasal 25 perbulan dengan total selama Tahun Pajak 2022 sebesar Rp62.703.600,00. Himawan memiliki bukti potong PPh Pasal 21 atas penghasilan yang telah dipotong oleh kliennya sebesar Rp350.000.000,00. Besarnya PPh terutang yang masih harus dibayar oleh Himawan adalah sebesar :
+
+A.
+
+Peredaran Bruto
+
+Rp5.250.000.000,00
+
+B.
+
+Biaya 3M
+
+Rp2.000.511.000,00
+
+C.
+
+Penghasilan Netto Fiskal (huruf A – huruf B)
+
+Rp3.249.489.000,00
+
+D.
+
+Penghasilan Tidak Kena Pajak (PTKP)
+
+1. Wajib Pajak Rp54.000.000,00
+
+2. Wajib Pajak Kawin Rp4.500.000,00
+
+3. Tanggungan 2 anak Rp9.000.000,00
+
+Total PTKP
+
+Rp67.500.000,00
+
+E.
+
+Penghasikan Kena Pajak (huruf C - huruf D)
+
+Rp3.181.989.000,00
+
+F.
+
+PPh terutang Tarif Pasal 17 UU PPh:
+
+5% x Rp60.000.000,00 = Rp3.000.000,00
+
+15% x Rp190.000.000,00 = Rp28.500.000,00
+
+25% x Rp250.000.000,00 = Rp62.500.000,00
+
+30% x Rp2.681.989.000,00 = Rp804.596.700,00
+
+Rp898.596.700,00
+
+G.
+
+Kredit Pajak Kredit Pajak:
+
+1. Angsuran PPh Pasal 25: Rp62.703.600,00
+
+2. PPh Pasal 21yang sudah dipotong: Rp350.000.000,00
+
+Total Kredit Pajak
+
+Rp412.703.600,00
+
+H.
+
+PPh terutang Pasal 29 (huruf F – huruf G)
+
+Rp485.893.100,00
+
+PPh Pasal 29 tersebut wajib dibayarkan oleh Himawan sebelum menyampaikan Surat Pemberitahuan Tahunan (SPT) PPh-nya.
+
+
+### Contoh Kasus - 4
+
+Tuan Zubair dengan status PTKP K/2 adalah seorang Arsitek yang bekerja sebagai pegawai tetap di PT A yang bergerak dalam bidang real estat. Pada Tahun Pajak 2022 Tuan Zubair memperoleh gaji dan tunjangan sebesar Rp250.000.000,00.
+
+Penghitungan PPh 21 oleh PT A:
+
+A
+
+Gaji dan Tunjangan
+
+Rp250.000.000,00
+
+B
+
+Biaya Jabatan (5%, max 500.000 per bulan)
+
+Rp6.000.000,00
+
+C
+
+Penghasilan Neto
+
+Rp244.000.000,00
+
+D
+
+Penghasilan Tidak Kena Pajak:
+
+Diri Wajib Pajak             Rp54.000.000,00
+
+Kawin                              Rp4.500.000,00
+
+Tanggungan 2 anak         Rp9.000,000,00
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Rp67.500.000,00
+
+E
+
+Penghasilan Kena Pajak
+
+Rp176.500.000,00
+
+F
+
+PPh 21 Terutang
+
+5% X 60.000.000 = 3.000.000
+
+15% X 116.500.000=17.475.000
+
+ 
+
+ 
+
+Rp20.475.000,00
+
+G
+
+PPh 21 dipotong PT A (bukti 1721 A1)
+
+Rp20.475.000,00
+
+ 
+
+Apabila Tuan Zubair hanya memperoleh penghasilan sebagai pegawai tetap di PT A tersebut maka Tuan Zubair bisa melaporkan SPT Tahunan PPh dengan formulir 1770 S dengan status SPT Nihil.
+
 
 [^1]: Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum Dan Tata Cara Perpajakan  sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang (selanjutnya disebut UU KUP).
 [^2]: Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan  sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang (selanjutnya disebut UU PPh).
