@@ -1,7 +1,5 @@
 # Administrasi
 
-Berikut ini adalah administrasi perpajakan yang terdiri dari daftar, hitung, bayar/setor, dan lapor.
-
 <div class="grid cards" markdown>
 
 - :material-checkbox-marked-circle-outline: [Daftar](1-daftar) – Bagaimana cara mendaftarkan diri sebagai Wajib Pajak?

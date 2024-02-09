@@ -27,3 +27,5 @@
 *[BUT]: Bentuk Usaha Tetap
 *[KITAS]: Kartu Izin Tinggal Sementara
 *[KITAP]: Kartu Izin Tinggal Tetap
+*[KPP]: Kantor Pelayanan Pajak
+*[KP2KP]: Kantor Pelayanan Penyuluhan dan Konsultasi Perpajakan
