@@ -21,6 +21,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://diasbaskara.id/adm/1-daftar/1-syarat/</loc>
+         <lastmod>2024-02-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://diasbaskara.id/adm/1-daftar/2-saluran/</loc>
+         <lastmod>2024-02-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://diasbaskara.id/blog/</loc>
          <lastmod>2024-02-09</lastmod>
          <changefreq>daily</changefreq>
@@ -262,6 +272,11 @@
     </url>
     <url>
          <loc>https://diasbaskara.id/ref/wajib-pajak/</loc>
+         <lastmod>2024-02-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://diasbaskara.id/ref/wanita-kawin/</loc>
          <lastmod>2024-02-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
