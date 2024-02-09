@@ -211,11 +211,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://diasbaskara.id/ref/npwp/</loc>
-         <lastmod>2024-02-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://diasbaskara.id/ref/objek-pajak/</loc>
          <lastmod>2024-02-09</lastmod>
          <changefreq>daily</changefreq>
@@ -226,7 +221,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://diasbaskara.id/ref/pencatatan/</loc>
+         <lastmod>2024-02-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://diasbaskara.id/ref/penghasilan/</loc>
+         <lastmod>2024-02-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://diasbaskara.id/ref/pkp/</loc>
          <lastmod>2024-02-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -257,6 +262,36 @@
     </url>
     <url>
          <loc>https://diasbaskara.id/ref/wajib-pajak/</loc>
+         <lastmod>2024-02-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://diasbaskara.id/ref/identitas/kitap/</loc>
+         <lastmod>2024-02-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://diasbaskara.id/ref/identitas/kitas/</loc>
+         <lastmod>2024-02-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://diasbaskara.id/ref/identitas/ktp/</loc>
+         <lastmod>2024-02-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://diasbaskara.id/ref/identitas/nik/</loc>
+         <lastmod>2024-02-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://diasbaskara.id/ref/identitas/npwp/</loc>
+         <lastmod>2024-02-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://diasbaskara.id/ref/identitas/paspor/</loc>
          <lastmod>2024-02-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
