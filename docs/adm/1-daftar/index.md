@@ -7,7 +7,7 @@ Orang pribadi dapat mendaftarkan diri untuk memperoleh NPWP dengan cara mengisi 
 
     NPWP diterbitkan paling lama 1 (satu) hari kerja terhitung setelah permohonan diterima lengkap.
 
-Ada empat kategori pendaftaran NPWP Orang Pribadi, yaitu:
+#### Kategori Pendaftaran NPWP Orang Pribadi
 
 | Kategori | Keterangan |
 | | |
@@ -17,7 +17,7 @@ Ada empat kategori pendaftaran NPWP Orang Pribadi, yaitu:
 | Warisan Belum Terbagi.  | Dalam hal Wajib Pajak orang pribadi yang meninggalkan warisan belum memiliki NPWP, dan dari warisan tersebut diterima atau diperoleh penghasilan. |
 
 
-Berikut dokumen yang harus dilampirkan:
+#### Dokumen yang Dilampirkan
 
 ???+ info "Karyawan/pegawai, pengusaha, pekerja lepas, pedagang, dan sejenisnya."
 
@@ -73,6 +73,7 @@ Berikut dokumen yang harus dilampirkan:
         - [x] Fotokopi dokumen penunjukan pihak yang mengurus harta peninggalan dan fotokopi Kartu NPWP pihak yang mengurus harta peninggalan, dalam hal warisan yang belum terbagi diwakili oleh pihak yang mengurus harta peninggalan.
 
 ### Badan
+#### Jenis Badan
 
 | Jenis Badan | Contoh |
 | | |
@@ -81,50 +82,78 @@ Berikut dokumen yang harus dilampirkan:
 | Kerja Sama Operasi (*Joint Operation*) | *Joint Operation* Perusahaan Konstruksi. |
 | Status Cabang | Bank ABC cabang Semarang, Cabang dari PT XYZ di kota Bandung, dan lain-lain. |
 
-!!! info "Dokumen yang dilampirkan"
+#### Dokumen yang Dilampirkan
 
-    === "Orientasi Profit/Nonprofit"
+=== "Orientasi Profit/Nonprofit"
 
-        1. Fotokopi dokumen pendirian badan usaha, berupa:
+    1. Fotokopi dokumen pendirian badan usaha, berupa:
 
-            - [x] Akta pendirian atau dokumen pendirian dan perubahannya, bagi Wajib Pajak Badan dalam negeri; atau
-            - [x] Surat keterangan penunjukan dari kantor pusat, bagi bentuk usaha tetap atau kantor perwakilan perusahaan asing;
+        - [x] Akta pendirian atau dokumen pendirian dan perubahannya, bagi Wajib Pajak Badan dalam negeri; atau
+        - [x] Surat keterangan penunjukan dari kantor pusat, bagi BUT atau kantor perwakilan perusahaan asing;
 
-        2. Dokumen yang menunjukkan identitas diri seluruh pengurus Badan:
-        
-        <div class="grid cards" markdown>
+    2. Dokumen yang menunjukkan identitas diri seluruh pengurus Badan:
+    
+    <div class="grid cards" markdown>
 
-        -   :flag_id: WNI
+    -   :flag_id: Warga Negara Indonesia
 
-            ---
+        ---
 
-            - [x] Fotokopi Kartu NPWP
+        - [x] Fotokopi Kartu NPWP
 
-        -   :globe_with_meridians: WNA
+    -   :globe_with_meridians: Warga Negara Asing
 
-            ---
+        ---
 
-            - [x] Fotokopi Paspor; dan
-            - [x] Fotokopi Kartu Nomor Pokok Wajib Pajak, dalam hal WNA telah terdaftar sebagai Wajib Pajak.
+        - [x] Fotokopi Paspor; dan
+        - [x] Fotokopi Kartu NPWP, dalam hal WNA telah terdaftar sebagai Wajib Pajak.
 
-        </div>            
+    </div>            
 
-    === "Kerja Sama Operasi (*Joint Operation*)"
+=== "Kerja Sama Operasi (*Joint Operation*)"
 
-        - [x] fotokopi perjanjian kerjasama atau akta pendirian sebagai bentuk kerja sama operasi;
-        - [x] fotokopi Kartu Nomor Pokok Wajib Pajak masing-masing anggota bentuk kerja sama operasi yang diwajibkan untuk memiliki Nomor Pokok Wajib Pajak;
-        - dokumen yang menunjukkan identitas diri pengurus bentuk Kerja Sama Operasi (Joint Operation) dan salah satu pengurus dari masing-masing perusahaan anggota bentuk Kerja Sama Operasi (Joint Operation), meliputi: 
-        - bagi Warga Negara Indonesia, yaitu fotokopi Kartu Nomor Pokok Wajib Pajak; atau
-        - bagi Warga Negara Asing, yaitu:
-        - fotokopi paspor; dan
-        - fotokopi Kartu Nomor Pokok Wajib Pajak, dalam hal Warga Negara Asing telah terdaftar sebagai Wajib Pajak.
+    - [x] Fotokopi perjanjian kerjasama atau akta pendirian sebagai bentuk kerja sama operasi;
+    - [x] Fotokopi Kartu NPWP masing-masing anggota bentuk kerja sama operasi yang diwajibkan untuk memiliki Nomor Pokok Wajib Pajak;
+    
+    Dokumen yang menunjukkan identitas diri pengurus bentuk Kerja Sama Operasi (*Joint Operation*) dan salah satu pengurus dari masing-masing perusahaan anggota bentuk Kerja Sama Operasi (*Joint Operation*), meliputi:
 
-    === "Status Cabang"
+    <div class="grid cards" markdown>
 
-        - fotokopi Kartu Nomor Pokok Wajib Pajak pusat atau induk; dan
-        - dokumen yang menunjukkan identitas diri pimpinan cabang atau penanggung jawab cabang, yaitu:
-        - bagi Warga Negara Indonesia, yaitu fotokopi Kartu Nomor Pokok Wajib Pajak; atau
-        - bagi Warga Negara Asing, yaitu:
-        - fotokopi paspor; dan
-        - fotokopi Kartu Nomor Pokok Wajib Pajak, dalam hal Warga Negara Asing telah terdaftar sebagai Wajib Pajak.
+    -   :flag_id: Warga Negara Indonesia
+
+        ---
+
+        - [x] Fotokopi Kartu NPWP
+
+    -   :globe_with_meridians: Warga Negara Asing
+
+        ---
+
+        - [x] Fotokopi Paspor; dan
+        - [x] Fotokopi Kartu NPWP, dalam hal WNA telah terdaftar sebagai Wajib Pajak.
+
+    </div>
+
+=== "Status Cabang"
+
+    - [x] Fotokopi Kartu NPWP pusat atau induk; dan
+    
+    Dokumen yang menunjukkan identitas diri pimpinan cabang atau penanggung jawab cabang, yaitu:
+
+    <div class="grid cards" markdown>
+
+    -   :flag_id: Warga Negara Indonesia
+
+        ---
+
+        - [x] Fotokopi Kartu NPWP
+
+    -   :globe_with_meridians: Warga Negara Asing
+
+        ---
+
+        - [x] Fotokopi Paspor; dan
+        - [x] Fotokopi Kartu NPWP, dalam hal WNA telah terdaftar sebagai Wajib Pajak.
+
+    </div>
 
