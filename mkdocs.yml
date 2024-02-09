@@ -41,6 +41,8 @@ theme:
 
 plugins:
   - search
+  - autolinks
+  - open-in-new-tab
   - awesome-pages
   - table-reader
   - blog

@@ -25,3 +25,5 @@
 *[K/1/2]: Penghasilan suami dan istri digabung dan memiliki dua tanggungan.
 *[K/1/3]: Penghasilan suami dan istri digabung dan memiliki tiga tanggungan.
 *[BUT]: Bentuk Usaha Tetap
+*[KITAS]: Kartu Izin Tinggal Sementara
+*[KITAP]: Kartu Izin Tinggal Tetap

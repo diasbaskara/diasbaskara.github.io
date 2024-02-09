@@ -1,10 +1,14 @@
 # Nomor Pokok Wajib Pajak
 
 !!! info
-    Nomor Pokok Wajib Pajak bagi Wajib Pajak Orang Pribadi yang merupakan penduduk Indonesia menggunakan Nomor Induk Kependudukan.[^1]
+    
 
 ## Definisi
-Nomor Pokok Wajib Pajak (NPWP) adalah nomor yang diberikan kepada [Wajib Pajak](/referensi/wajib-pajak) sebagai sarana dalam administrasi perpajakan yang dipergunakan sebagai tanda pengenal diri atau identitas Wajib Pajak dalam melaksanakan hak dan kewajibannya.
+
+!!! info "Singkatan"
+    Nomor Pokok Wajib Pajak selanjutnya akan ditulis: **NPWP**.
+
+Nomor Pokok Wajib Pajak adalah nomor yang diberikan kepada [Wajib Pajak](wajib-pajak.md) sebagai sarana dalam administrasi perpajakan yang dipergunakan sebagai tanda pengenal diri atau identitas Wajib Pajak dalam melaksanakan hak dan kewajibannya.
 
 - Wajib Pajak orang pribadi;
 - Wajib Pajak Warisan Belum Terbagi;
@@ -23,7 +27,7 @@ NPWP tidak berubah meskipun Wajib Pajak pindah tempat tinggal/tempat kedudukan a
 
 Nomor Pokok Wajib Pajak bagi Wajib Pajak orang pribadi yang merupakan penduduk Indonesia menggunakan nomor induk kependudukan.
 
-[^1]: Undang-Undang Republik Indonesia Nomor 7 Tahun 2021 Tentang Harmonisasi Peraturan Perpajakan [:material-open-in-new:](https://jdih.kemenkeu.go.id/in/dokumen/peraturan/1261ff41-c359-4b2c-7596-08d99eb1213d){target="_blank"}
+[^1]: Undang-Undang Republik Indonesia Nomor 7 Tahun 2021 Tentang Harmonisasi Peraturan Perpajakan [:material-open-in-new:](https://jdih.kemenkeu.go.id/in/dokumen/peraturan/1261ff41-c359-4b2c-7596-08d99eb1213d)
 
 [^2]: Peraturan Direktur Jenderal Pajak Nomor PER-04/PJ/2020 tentang Petunjuk Teknis Pelaksanaan Administrasi Nomor Pokok Wajib Pajak, Sertifikat Elektronik, dan Pengukuhan Pengusaha Kena Pajak :material-link:
 

@@ -1,0 +1,3 @@
+# Pengusaha Kena Pajak
+
+Pengusaha Kena Pajak, sering disebut PKP adalah Pengusaha yang melakukan penyerahan Barang Kena Pajak dan atau penyerahan Jasa Kena Pajak yang dikenakan pajak berdasarkan Undang-Undang Pajak Pertambahan Nilai (UU PPN) 1984 dan perubahannya, tidak termasuk Pengusaha Kecil yang batasannya ditetapkan dengan Keputusan Menteri Keuangan, kecuali Pengusaha Kecil yang memilih untuk dikukuhkan sebagai Pengusaha Kena Pajak.

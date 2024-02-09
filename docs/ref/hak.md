@@ -2,16 +2,16 @@
 
 | Jenis Permohonan | Formulir |
 | | |
-| permohonan pengembalian atas kelebihan pembayaran pajak atau pengembalian atas pembayaran pajak yang seharusnya tidak terutang ||
-| permohonan pengurangan atau penghapusan sanksi administrasi ||
-| permohonan pengurangan atau pembatalan surat ketetapan pajak yang tidak benar ||
-| permohonan pengurangan atau pembatalan Surat Tagihan Pajak yang tidak benar ||
-| permohonan penundaan pembayaran pajak ||
-| permohonan pengangsuran pembayaran pajak ||
-| permohonan penundaan pelaporan SPT Tahunan ||
-| permohonan pengurangan PPh Pasal 25 ||
-| permohonan pengurangan PBB ||
-| permohonan pengembalian pendahuluan kelebihan pembayaran pajak ||
+| pengembalian atas kelebihan pembayaran pajak atau pengembalian atas pembayaran pajak yang seharusnya tidak terutang ||
+| pengurangan atau penghapusan sanksi administrasi ||
+| pengurangan atau pembatalan surat ketetapan pajak yang tidak benar ||
+| pengurangan atau pembatalan Surat Tagihan Pajak yang tidak benar ||
+| penundaan pembayaran pajak ||
+| pengangsuran pembayaran pajak ||
+| penundaan pelaporan SPT Tahunan ||
+| pengurangan PPh Pasal 25 ||
+| pengurangan PBB ||
+| pengembalian pendahuluan kelebihan pembayaran pajak ||
 
 Secara umum hak wajib pajak meliputi:
 
