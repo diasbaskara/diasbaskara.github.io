@@ -34,7 +34,7 @@ theme:
       css:  fontawesome/brands/css3
 
   font:
-    text: Work Sans
+    text: IBM Plex Sans
 
   palette:
     - scheme: slate
